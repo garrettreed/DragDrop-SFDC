@@ -1,0 +1,9 @@
+c:\users\garrett\documents\visual studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Debug\DragDropCopy.exe.config
+c:\users\garrett\documents\visual studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Debug\DragDropCopy.exe
+c:\users\garrett\documents\visual studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Debug\DragDropCopy.pdb
+c:\users\garrett\documents\visual studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Debug\DragDropCopy.csproj.GenerateResource.Cache
+c:\users\garrett\documents\visual studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Debug\DragDropCopy.exe
+c:\users\garrett\documents\visual studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Debug\DragDropCopy.pdb
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Debug\DragDropSF.Form1.resources
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Debug\DragDropCopy.csprojResolveAssemblyReference.cache
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Debug\DragDropSF.Properties.Resources.resources

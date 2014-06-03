@@ -1,0 +1,1651 @@
+Subject: Plex Update: Introducing Cloud Sync
+Body: Plex News - October 2013 
+Your source for the latest news in the Plexverse! 
+Trouble seeing something? view it online
+<http://email.plexapp.com/wf/click?upn=r919yovET0liWEiak5Jqikj9SL7XKBVAw
+YCcS9D8-2FWgAVVHz7dp-2But6IH3F8D-2FNBfKIxEy1cGmOwrxsOku6bzMuhaCUyhkb30D9
+10mPBrX1Vmq0izCDzhVpjxm6nm6NBrsBBkWv7Ad3xs4bsxXdY9FUJ5QAz3l3oO02swX5cPsF
+p17dNkEXuB0AJdnmc8md6iC-2BjBfG8XtX0j-2FjC2YG7IDMb-2BjMhtNcQXUVvMsuzevbSp
+Mftx9n3kSJ1ERh9i07OjZIGKoJJEfDkJTCAODcyBf-2FcgljlYCgb0g9r-2FX7jiIM-3D_rk
+wuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0Md
+OmySUcSIuV8HjuTp3iEsZl8Aw1YQD6N7nxKe1j9YmD4n7m0jQiqba1bzUj5dlb7dl-2BfWHJ
+vseYDZ1hKW73yPFeOMoTEJS4EzdCsukECZi992wYui-2FFaYg2nV7YsciqN5WPa-2BUl7dLB
+En5tOMrQd-2BWjTi6PrwzDkhkIBy-2FCnkb3-2F4lv3CmJTGkD2Wp1M6LcOCmF4eSOnDJ3pb
+T-2FohDELYY43nOovJljR-2BHG5P8lT-2FQwYzgpaH0Mt3Jap-2BtxrrGpCSxWx0nOoozpmT
+0fpleiWeepnRsgkF-2B-2Febv-2FRv3Sx2o2iOW3WrUBXIfyIp7TBxPfbnMKq3nJa8Aifr3o
+fw-3D-3D>  
+ 	 
+ 	 
+Plex, Inc. 
+ 
+<http://email.plexapp.com/wf/click?upn=KSq-2Fh2G1t3MxflcaP4SZY3TuS98duXm
+2hk81ZxFNOb9vRH1ZBOn1QPJIw0ox-2F3Gk_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTq2Eq2hBBoe3AtldRoT6
+hq3XQUteC3vm32tNrzYnvqi5PK-2FRT-2FVRJoKIVv3cOwjBWa4hUpgfbaRcRcD-2BLik3gT
+LrSMEnhUivQYKFxcWHD1TrdB1AZmZIhhzcY5d4uWQI-2FUdNqUI2ehov1dnMXQ9so9OC7xCE
+hWRlkBYACmWulpd-2FpkZYkvGFlm7opNCc-2Bzkd46Erxz96F2aqqytB7tk0H9JECZpsNudc
+Gdk10wqzVbhNTAlT2SXs6mHge9Dh0JcHBcNISAYQW33vnmTw0KdmEdQrn83tX2UEBiZdZkjC
+bKJc2W-2FvV86HKSWw52fCiMWOMA-3D-3D>
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4q394k6-2FbKd
+yvMUgpCrC2VhVJojV69aGhvhE4aUYHPfb_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuThcmmEPqmy8g0IwnJ2geix
+nWIp9YZQbSO6pedvvEw4zC7OTtPvpFy6z6TY4Non-2F6yLZXN-2FDC2ipQQpPFHer3v-2BKp
+HhGNAaUlHPHD4G9kH1ujF2Jxk6s5GZSVNNyfkIMBIfOoY1d5pInESGwJiv-2FMKFmZuNlFuO
+btgauqgTtVFQYM94iy43qeUMks1resgF7ofAAdF8br-2Fw7yyaMnKZUJULmiZqxWHvm1Q8dy
+QiaTGN2MORX4HAm2ZrBeLptgKlaZZIXzk-2BVtyLzMSW5HJJBxeGwaU3LymlDwUMFe3P-2FX
+vRhGAC2pDkca-2F-2FG6tf-2BJIWsqNg-3D-3D>
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbahaEvFWWFfW83UlGId2pSDS5URHpcMnqPxMDPvSUFRqs224YVx4WAowRx8EX737Wgo-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTln1N7ljqQr0uByvJ-2BOozXuTV1K77yp6Ggyb9FNccFBfIJJPeOR3
+5YCmnt2u2eh-2B-2ByUrEL9SN9p4w4TeuW9ofiqAk9xC11PRG7qrQ4UAHrv-2FVe0t8-2BAF
+5MYyDum-2FesscWAvlzJsJN-2FgXYgowS2mNMCUF8zwDoVYfJXMXQZDh1czvBTAbOdqMiuJQ
+zdLowUfukGUp4CQWui0BB7zZYTEMllsZN20geG0w6GxUPZ-2Fx4takY1QXzDKKRMQ4jNUDPW
+4uz5msHZZlBojWmbmAJqGr-2F0emcjAPSHtoEYmqINdqIEnpCfqnzHOYR4jYCoL9pnYXvA-3
+D-3D>  
+Newsletter October 2013 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbag13GM4odi-2BhyP1lxN4Bo1tkDgm-2F2SFQwsYB5seEFAcD7UmMSm1dtFPJeklv9Yi-
+2BWo-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2B
+MA4RkdB0MdOmySUcSIuV8HjuTkeya9oT9k0mTvYs6H7dyK4T6WLO8K9fUy6QQoJaxBDfZIMj
+-2Fd7ASrvW7WQbDFQA-2Fm8neYEtFid9NREIih9NRdBFpRdlc-2Fna12beSZ-2FU7hnNPLjv
+gFLYAp2qHGzK6UB-2FnpgiNUitsdtdJi82IUGX3DNIJgn13MdE92snM3TNS9POyD5BZI87zp
+v5E6p3YCBvcXw5m-2FCcwvZUa3Q6jGLrKnMKcr-2FjbN83Ph6Cjq7Z5FaOaTPDiOTn6ncXoH
+NTSHNd7QtysS0OW47yJfcxWnC9pc2fc6xqQ6YFC-2F55amnvIJYRMKNmVQAW2b-2FPx-2B2D
+-2FlKlfQ-3D-3D> 	 
+ 	 Enhancements everywhere 
+ 	 
+
+We're always striving to improve your Plex experience, and you've told
+us you want to keep up to date. We're glad you did. We've been working
+on a number of enhancements and launching new features we know you'll
+love. Plus we've added some great tips in this newsletter to help you
+get the most out of Plex.
+
+ 	 
+ 	 What we've been doing 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFger-2FBpbfHHFV-2FRtuYBu4
+3DwHmy8pMe-2FHsybxSR-2B5G61SpkW7mmfakUmuawHczkt1g-3D-3D_rkwuK8TjtAUrSFYu
+N-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8Hju
+Tv6Qo1-2B35VEyIJUJxGD4gyahgtVjRUYzUEJ-2Fo4Uvsh0zfOXsWzmFUlJFNuknQ66l2DFQ
+UU3kLEqS9e-2F-2BPuqsmg0CF3sRBau-2BH1Djjj9tb7Gq-2BSpOkcV1TkdGMc0bZDOGW72u
+ygDM-2FtdhetZFzAtY2kVJP-2BRUoaEKlRXlZYWFtVhAjwcs8U3zXmmYGTGcnBeMDmRuCrr1
+eWgaE2LFDMo5EqlB3GvMxjupxBSXbLfY3ZrdoDhqpHAbuNyQWqdwM7gxyUlek0EjiRqN9klj
+GbzaW-2F7k3GX3bSC1JJGKHJbWsxZ7aA16lxNWPkmVs-2FpWNXYVYA-3D-3D>
+Introducing Cloud Sync (beta)
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFj9qlomF3YdXJkBAivph4ndzY
+1de9cbwEFBgtK5fYLqQkDH2MQBdmLRoqYDZbCxL-2Fg-3D-3D_rkwuK8TjtAUrSFYuN-2FWc
+FqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTp-2FU
+HFNUcw0eM-2BObi2InW-2ByTVgLjgK19GvM3RYSq5OZ1Df8cKTQ04LJM9GTtBhTS0U581kIK
+54wK1LsiCRHepLWhQpckUd9bfPxWn2Y1z3YKNyOXfpaAmyniIRrYy2QeNuNx89LhWE3t-2BP
+JFWioy-2BpRAm0b6-2BGvjUL0aWdQdnHsc2T0BCza6HPknm0Qd4KJhC-2F0b0Z-2BKXdMtFd
+Q8Ta8DYOUQUpPRDIDhgAcWyezBWeE99Es82OEwxRSDOwTZu3oEbn4d0kmEUUbfLwyVa-2Ft-
+2B-2B3MCAsRl9KzxUmAXtHZ21lplJqtNn-2F-2BZ70SSzi-2FlhO20Jw-3D-3D>  
+
+We know that streaming bandwidth and storage limitations can be
+frustrating when sharing and enjoying your media, and we'd like to help.
+Today, we're excited to launch Cloud Sync, which lets you sync your
+media to places like DropBox
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjnxB6ZkEXZ1Hs5
+JZb07CQ9vA-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTrJBETFrjPBKG5wWNHzNQXbRA-2F-2FKUN8-2BdrBy
+ctkPnfhM4gJC3ib5ZgxGtS-2FAIjIQGmmajq1fBuRyquSCGG8unMCGbQkrJiVsz1N5a-2Bfk
+ygg9M-2BgI2lYcd2CHcUPyfXnLv5RZwCKIBHLJsBtLIeqet5y1gS-2FLOHRnWJgNiPbfDgXK
+xkatcLwod2h0ppmzOaGPsfHnCeCmm62BPz3SO3kOwYngEqeNIoBC7neLMNi0gE8XPwYsQzUi
+oLFaZnNShpNiaEJNd5f9TLWCa6dhZw3g4EOwnxNMcwrIis3ocjcMQxr3Vp30n9vPkAkFqsl3
+O7zJkw-3D-3D> , Google Drive
+<http://email.plexapp.com/wf/click?upn=Z3iYpvyb2hAZKgvCAvedmQK2FNEbaIn6U
+k4XWRj7f50-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTs3e0palyDkf1VmhJKrhBnTNN4CgkrQ7hy-2FM8F1d
+iHCgKvw6fhAsFDG5ZT4OsQA9X0jgi8ber39useCFipc5mO9LH9QT-2BpEbCSSV3v7Yy3mtyp
+OBO61ZSfzu-2FcnKVkHOjVb02Unryz-2Fr-2Bm0r-2FfYZYRlEvfS1-2BHAhzyFVS6Q7TsNL
+pSrcxQ7P6aP2L1Ox-2Fx5LUPwhCQPX18RbPUK8MfGb-2Bc4cSnu1v6NChGmasIZfUlDPAN7i
+P1LCEUs-2FvUn8fT5BgrEef5wXBbJ-2BxlwAlGTFnpKhYlI-2B2TZh-2FfXZnwkovK2w4DMG
+7NHjHG8aJMQ5n9hrmA-3D-3D>  and Box
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3LjI1bOB6mJ6
+N5GtZWNPSQ-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkdRDKVD-2F5yUjb9olfOHKWvJ6ebr5U4iIPmT3vod
+mm6ik-2F6Ab2rWhEwP0KatKFcf7V1Pfj939Ito5CZrN6MRVFUxAdaq3E-2BGfCxj8Belee0j
+FB7iWBnNtBqJwVf-2FG-2BMXGLbxaH9abWAzg2aLnxRxpfsGGgwVI-2BZjn0xsGxZ-2BQuMa
+USWh3arywKJ1bT2vcDf4pX2qGbf55ZS0V9V0E3fMPlJx0A4jN1zrUVcT1CIcLztmA9PI-2FE
+edHhhe-2F5MgIIQQsYN2MxaKleKOciHw50KhaKP-2BT1MNXknbcyqysRupA8448bJMFVkym2
+DlUrhldWoU4w-3D-3D> . Your media is automatically optimized for
+streaming and uploaded along with the rich metadata you know and love.
+It's like having a media server that's always on, even when your
+computer at home is turned off. Cloud Sync is available to Plex Pass
+subscribers.
+
+You can learn more here
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFkl0ee9PeOS1w-2FYVJ0Uo0mc
+p-2BP-2BGSbhMzGrPchDykjh-2BOeHkie7jjFNen91ZT7Zohg-3D-3D_rkwuK8TjtAUrSFYu
+N-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8Hju
+TjGIElEf4HisT4FPLBwWff-2B-2BVBN1FnxbcJoe69XMuiRaHu9A8vVcNrKWa9t2ojrV7ATi
+RUzQkKv9hA7tGj3PdcKePiDcn6zuZlaT0JJvTWJauv3hff-2FU9iLmiT0Z2C7634dUib8OQP
+9lMsn6PT1CQvUXbymWHU7i23n5mPQkZ9WRvftU8ERNmrIFKgx70-2BtWtzcwkH8SD-2B9w18
+TLNEtoUq0CqF73fWLeQcTBd-2FMTL3B5XRekiUipmDHKj3llQnHitEsJSDTBJQIESLfHdpoC
+PM8xxY03iUoXA90cnshoKHsKNYUWQuCi0ivP-2BK-2BBrhP-2Blw-3D-3D> .
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFrxaCO7X79hdc7H7pdYkcOYmJ
+e2CSAHZ3GY6K3zL3GsXKY9vUPgBDLJRnMivVKzBOg-3D-3D_rkwuK8TjtAUrSFYuN-2FWcFq
+YOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuToj7RGUu
+XlYHo7uT1-2B9zz7CAViOOdZt4WWOT9gTDOV9UDOZcGe46SEcu-2BDfwSlFm9MctqMmgXgZE
+WTwPyj0wvH5WufUeUTsJQg4TqRhi8WAc9ycODKjZfLY6FuaN6tFfhJ0H81yHSo7Xs5G-2FO-
+2BV570obMYiCL8m3AyLBpRR5Tf0O8wSeQGdSllNbWc4sUpeKEeJmf1lzZkb97ezvNYzElS2m
+weMeFtDkdu3NyWkJm5EFGwSEI4cs6hYoaq1TJSwaAYBThYHKzuEusrFYWpsaQP-2FU5ls-2F
+woLKn7G1zqIPO8fKZTlf8t183Ujt2wMIAD2sqQ-3D-3D> 	 
+Both myPlex and Plex Media Server get a boost
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFrXCF09K64iMSJ-2BK7YqETl5
+YQCFJrMPHR2PSU9y9Pl-2B8GSWsmlKHNAkmExVrx0jQRw-3D-3D_rkwuK8TjtAUrSFYuN-2F
+WcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTlKx
+yW-2BLHsCDk8BhW0Dx52x4ZGpC1gBlGBtPZByo9tZm7LloYv-2Fb9US79Ig2TFHd62HIsEW3
+tH-2BTLZvepHS1IoIiW9gweyEpqAs6q2SutaY06w7gt3xEKnjDZZdzbgnLhwYOveUtzflarA
+UZkj4leRggNoWQ4BWpbr0LOBF-2FC30Rba-2Fyx-2FvqviJEzrY1wbXPpxTWjX9qOOLd3CZq
+cTC0jPC-2Ff6m2eAHimQz1NSFchvIcJXfhOz7RldYiX1e4D-2B4skfAgG7itfGCJAfCucg2Z
+mkaMZ4PZRlN-2Bwkknt-2Bg51txOBkVWMUi89NFWJxRjN0oVUg-3D-3D>  
+
+We've made your queue and recommendations load up to 10 times faster.
+We've also greatly sped up scanning media into your library. The quicker
+it gets into your library, the quicker you can enjoy it across all your
+Plex apps, right? Movies, TV, music and photos all scan at least three
+times faster, and scanning has also been made more reliable. So, if it
+feels like someone pressed turbo on your Plex, that's because we did.
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbITr2PPjT6-2F5nc4d0hAnqFVoe7oTj0F4z-2B5PD56aKnzadSKZ1y2y4u8KXTMs2E
+OXf0-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2B
+MA4RkdB0MdOmySUcSIuV8HjuToRcUTBChJMdKxWwRvIJiclu639POlFtGwdN-2BXj9YaYufY
+hk-2FeZMVmUPCb077gRPl4mS9LmJOY34mijMD0ym1ynVBzR2XDCqaQSsAmlIdVGL15hN6F-2
+BfjF8CaE84W-2B-2BvQ8I9GcUEL-2BCDukXXmi2x-2BughhU-2FXC1KKKEZYrXgL3GsRPE7o
+Yd9jjlXP5-2B1iBhH1BQt0JXzrFKrsTdzCM4aMKXe3w9CDye1ZMuLp4wMK8Up3mylejs1TXc
+UuAtjICdZmzQ7GkdDEOq-2BfJ2RNFYrl2bGLNMW9-2FYmCVyVmKHWdntHSf4FasR3sqVR7CG
+E0-2Bne59Q-3D-3D> 	  	 
+The new bookmarklet: Save, Recommend, Fling!
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbIKPClRuGSZxr2ox6sgqrSFq-2FuORro1FMqoSSzWz9N9vIp-2Fo-2FIOajuKfqXqD
+sN1c4s-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-
+2BMA4RkdB0MdOmySUcSIuV8HjuTt-2FOh1z10gokE5K3l9H7V5vNR-2Bi7Qv866FvBaGwLlO
+I7b2jwQySuQA-2F13B-2Fm8LaS-2BavTgnWbzauDGQkuvnc6G93ZZuitfnZaTLh7Kr1THkrk
+ANBd-2Bdn7hnUZNRSRwXI-2Bg3I-2FvX4LLumONgW1KITM9pQkgItEo4zYA9VaYl8KbWRg9v
+J2hY-2B3IVYBeJSdeGjPNXnQS6RoUpSpUIZqTYiOTot44nLvMjx1A3P0EEwiJCm7RynLX8Hz
+zzrLqlKcX7keOFBhHBOH0Hf2ElO2RmQpBsWh56f8WU1hkmmEQQRNzk1g0GBeJbR5jxGXS9gh
+H7XeYA-3D-3D>  
+
+The Plex bookmarklet
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbKHZOJV776VLXzP3l8mRCKSlPZPOjopR3S3WsZR21yKxynQGQ4qdWBzHXLxH7D-2By
+Bc-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTgighKwLGKnNoo7sr66MssBbdGkzCcOoM9xbTeSbCdAPUXtzu9
+kiIWFffhgjxr2KSqg-2BubYTg3Qj-2FZSwoODBkdlO81wLVbO3WaF7MF5Idcg9sOcifvvLvY
+1iJpI8wcGI8SGm4VZ1ByS9JUDVvQH6skBb2dooGqkPHX-2F-2BRq-2FHgF4g1N5WRFCq3ZL-
+2FwZSLxbDGragX8cEPRYsRX5FITuza21Yx3nfpnBf6fA3jmuEVI-2B39qAvYxArg0r-2F1O0
+tI8-2Ba4dKdHLiEbEGhJtoeaKkqkd2pdY6m2Yg1vsho-2FdiM5kadf2hzDMDyeW-2FyhuFMK
+5D9VYA-3D-3D>  lets you save videos from your favorite online sites to
+queue up for later viewing on Plex. We've made huge improvements
+including a streamlined look and feel and an easier way to recommend
+videos to friends. Now you can also find a video you like on your laptop
+and watch instantly on your Plex-connected TV. 
+
+Simply add the "Plex It" button to your browser
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEre1R8swioQ
+wgbBzhGFJmn9vx7Wh7TEe6LGdttX8qModQ6dhvQ3pe-2BO-2BpITJMz2trIO-2BUuFVtF9jq
+pYhpzdoMoYlPZo6vXYOJlOTSPWmBFxHmM3BYsFcZszCXppPBpkC5-2BkT2cwSksMtvgldQiC
+eH1M3EFKdUtdSCuZ5xjK9rG4Y_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAow
+S465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTt-2BhInR-2BrYVIeogtetQh7QRRAF
+mKNAxiamO47d61dRoiRjZjhtDqafJYyW5Bp-2FSg62EbtPvrlWsa7L9ns4TmT-2FNwNyjOLZ
+7woquDWQW-2FAv67-2FK7dzGO6Cv0KxzzSFUnjKg4pc7hxGNUcL18nuQJLrTpACQWue5r3cV
+en-2FpC9BTfW5kTCOkqovEvqsBMSp7NvwxJCH4XO98WRkfC-2B2jO6cRwWkkEPBAoxooIuka
+J9oQ9xCKrmKuq1XD54AjPObfK2XxxCQJpjIb1ezUMIjzFpDsB50h-2BPrNbKelEE7TfAyduL
+4EjDbCt68hJwNWfEjWqpPg-3D-3D>  and start flinging.
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmWFCd7uYPUD5Sy9aNJB3WBAgqt80kaVoo-2BQE1LryUFiJdJxCPK8ihEpUCT
+ohofg-2B0nZFCR2Q2MlvvFxsM9q1DdSJV6iRKpIBpRqLjv3uFmphmcY7IxptseB-2Bytbs2G
+gMNVu-2FbNq7lVC82VMXXGRCEwj_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tA
+owS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTsKasWbXFU6iNNdWYnFI05JaARhc
+hSH5AuynBwL3phsEhlZn4l8jMhS8-2BdrNU11eDzU4Kop-2Fri-2FCJJx25EXCUi7fRkg5DI
+ynQ42G46A4jhi3STivXQOuIhZkuijjkmxnsALRZ9Ij9ptTpzHLGJ-2FL3z6-2BfthjKsz-2F
+sL3mSLs21RshzcpLJsE-2Bun6VkBrgaJl1sRD4G4dXTIOH-2FAejlnGUpwhLBhYBkvmBS7oF
+UA4uxeQGokgTIp9Kph-2B8PNVLJ4an8ZHOAzLYdRBkzyvz8eLuUUCFKqwsxT8il9RzFpYYQ8
+4vhFWiYIFb-2B6EyDQkIlG6LhA-3D-3D> 	 
+Plex Pass
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmWFCd7uYPUD5Sy9aNJB3WBAgqt80kaVoo-2BQE1LryUFiJdJxCPK8ihEpUCT
+ohofg-2B0nZFCR2Q2MlvvFxsM9q1DdSXMO7iUAzDAW3iN53a4zk89h5RBArncnCHMO9EA2IF
+XN7n8zqK8X9Nm1csfxS8Bd4_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS4
+65oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqaVjdzQ6ZeW9ZEXblmHMZTAev4rfvjK
+Usi6fVB0ESb9nxc5Hv53nmtpohmm7zW-2Ba4qBCO3WAxKewkBfDD9rtF-2FzS7Gc5BQLH0R9
+y3I-2FAkz49OXZnz68o7n-2BbqnRUI7eY8UMzG46pKoPytw-2Blh3RMG-2F-2BvNK4zAWGzo
+3vLH7L2Q2FzUL5ByExve0FwVrZ6dhVYP8IfxyFm1V8yv-2BzYmhQg8ptSUV3N2Za80jHbDv7
+jPSg3zu65beiOCM5mnwVt5BlVeK7RFePbTNvHLRuyyD-2FN-2FQvsZVqY89ulQtZHzUi6ZUw
+N4xkRwkwg7ouc5KnfjoCpg-3D-3D>  
+
+A Plex Pass subscription
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4pCW1GSpS3nrs9XxxsTxHvSBY5bhmiD9-2FiMqEIRbZjDXv
+ILmmJ6HNUGto5AZuYD9A4_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkUs9PHa4xUDxjemRt53iA2spTeUVlZvNG
+JltHxMI4vzP-2B-2BSVEvJ0xSFW7c25ORqypdyrOhWZKH7d9kAKw1ffv998r546dCmAuR7-2
+Fsli2Y3zshoA8bSfbYImTQp-2FWdpL88mZTvSi-2B2-2B2GM9JzFrIiNJnv0iw7Ygws9-2FI
+zsRdsBcYpqBoNh0SXvhP86RX1lEB7uQ5zL3Qt3uqIwlAdVKxUAwQ4JNIvDeREGUbw7Q3cw-2
+FNQOjmdZWePbN4rmLz9ZAr8f-2F0Oj1ImxybfDbQPZCdxbyk9-2B-2FS3pz9BSQk45HPP5MZ
+Yazlq5fnD8i2f-2BaJUwNU5Q-3D-3D>  gets you more of the good stuff and
+fuels our development. You can enjoy access to new features like Cloud
+Sync along with upgrades to existing ones like Plex Home Theater.
+
+Learn more and get your Plex Pass here.
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4p9v1BmcVnUviA98A2aIuDODgR8EMkEOPHcT5jivfVQaY2r
+f2FMdm7ivFJz-2FL8HMp0_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTmALZX9xfdVMN-2FmcjV-2FzNHqrNV7APQ
+AVs7GjqvhU7fL60-2BpBLb7oayxdUOOXAqqhZQB-2FKHx0NYa09Jck0eJG5TWFJSakF4D3Yc
+KAP4bT-2FMCQROWVy-2Fdxme6576XAZ4VX3m9J4DgGWPDQrAKj0n9AeKhA91IwCTHRvTHRPx
+sjVLG2nW6-2BDKPXFnm-2B91g-2Br4rxgMzCw-2FRTMwfpZm78-2BXom2uO8Ksg06IaB2V0I
+HVScRPDJ-2FLabqxOpZVhzsoIrAKO0PKoCAR7pXCaogUnEbU-2Fl8-2FP-2FaGfTgLhz-2FL
+c604WvvYBchlTkBsHDSf27qIL5cKOKCw-3D-3D> 
+
+ 	 
+ 	 Get the most out of Plex 
+ 	 
+Sync with your favorite shows 
+
+Plex Sync lets you save your media on your iOS and Android devices. If
+you're following a TV series, there's an easy way to make sure you
+always have the next episodes ready for watching. Simply sync each TV
+show, select the "unwatched" option, and pick the number of episodes
+you'd like to have available offline. That way, no matter where you're
+watching the show, Plex will keep you entertained. Plex Sync is another
+great reason to sign up for Plex Pass
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4pUe01IQ4PFiH11BDba5ZqRqOcsQn-2BcjNh1R1a7dS5YUy
+nbKjH3FXE0V0E0uXTrBLv_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTmHo4ZZYvIHvI0sNf6VTdWwCXZOQYsyZr-
+2Bs-2ByvP13EjNg4jMCNsSPb-2BF2XWQvUZ8k9AgJNgoo-2BMf0mNvTh2KOgFc5iw4MFi8IM
+Z7gC7c7o0yuix4S8yQNj3GQkVYKzHzle3osc3C9f-2B-2F0WyEM-2FRptQWL4XwUOWDq0Pqr
+WVbVN6KN0usZFDhGWNNBY8yCKUHLU89vIdllH65ispL71l9OBHk02qqXiGsNZMM7u9PM-2Fj
+FdusBXnUvPmk4COzNQ7xWzSKaJGGCw9CfAyDXlD8fbI3KrUm4VMm5UrsG-2BwGAWBmWClhQj
+I4XAdeFQsgxRe-2FaF8g-3D-3D> .
+
+Use your phone as a server at your friend's house 
+
+Did you know you can play your synced content (if you have a Plex Pass)
+and view content from your iOS photo albums (even if you don't have a
+Plex Pass) on any other Plex app? It's true! You can go over to a
+friend's house, and your iOS or Android device will show up as a Plex
+server, so you can browse and play synced content on their Roku, Google
+TV, Plex for Home Theater, Plex for Android or even another iOS device.
+
+Adjusting video streaming quality 
+
+When streaming to your mobile devices over WiFi or cellular, the amount
+of bandwidth varies widely. Even as you walk around your house, the
+signal level varies, which can affect the speed of data to your device.
+If your video is pausing or buffering, it's probably time to lower the
+quality. On Android you can do this right in the player, simply tap the
+settings icon and adjust the quality. On other Plex apps there are
+quality settings in the preferences area you can adjust.
+
+ 	 
+ 	 What people are saying about us 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4ghQsvLZnS6RB
+Ec-2F5YEjlNdbMNzspGHJVavrUrNjEb6q_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTrO8eNX1pB-2FK9pQz7Xp0
+EGbSneAalLxC2JyegWfvhzwaZFq-2Ba54ecAu8uNUPkTQgQwAO0tQj1mdSSTsWmSDKV6P9EJ
+FIwQpAE0f45wYqTrDYGnMuIbjY-2Br2JNKDSN4fiQWcWqP0iGPmSdowpEwkUMC1sRmhE5cB6
+ljHnOm2S-2F40uyqyCsLeit3uVCI1roTKugn5BNIKy0Sr0UjzAVqxvb41LnbdW-2BXul8aeN
+eRZ2cLjQ04ITcoZyxJdS0buo4AQ2V8lIT4SJ-2B6f29ow09a4kKaJbpZ-2FpOueVb29nKAOP
+HG8vWunoRZY5m9MdJS9fw9Ktjg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Jon Olsen@burnunit
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4ghQsvLZnS6RB
+Ec-2F5YEjlNdbMNzspGHJVavrUrNjEb6q_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvDkd4UD7ZmHKsrZxKxBa6
+3kA6leLjil9waG98h3DfM4rNRseBzds1T0958jgfxYu7-2FLln4k58PYRgfX-2FdMVy5dMKD
+kuw9OEAG7pIKUXcUvDq0vlVxLNQ-2BU7uJsYG8EavtYXztgZ6WbeFoAx3bHyYQSoUBjaRw0H
+nkrcEiZng4bMU0Rk7tS6DLvViTylYT14680nJLZxAIAph4soYTm-2Brbqc91nkDnMyQytmOP
+egGxPA8fapisl3H2i9-2FR4joDFymUEgKKYxHFMxGaiiSKBKu5U6cALRDhLf73M-2Fs2NX7h
+TucANJ0stEWYSrZHrfmIvnaw-3D-3D>  
+"I've just liberated my media across time and space with Plex Media
+Server. I am become SHIVA THE SHATTERER OF WORLDS!" 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4l9zGR34dQ1id
+XpwwgIDT-2F0wJIssACw7Cse-2BbsLUecMH_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvI1MwZfjQpkkXKG23i0
+lf0FJlFrexEpqCOBJQYKxW4oX8xjHlxDBOmXDQ1dcZQLiPdDECBYV7lAU6v33lM5Mv6dutg7
+06IebUbi8pxce4s0-2FJ57IbUlPOO0cNiim7eE4kHsgAFipEj6KtAT6Zj1rM24qYGyyqOUwx
+UlUzt-2FBCdCnhKrtFS4-2FEoblxZM-2BqRZSABEPq96qujbWX-2B-2BJzIACsKme8uLmJoS
+tbq8ywkypUbrF1Pl6nUU6VXcPWEYRjU1hD-2FfS7fenU-2F3QYgvnKB4d0aIGPxW8bOcjvq7
+TwcmPkM9tScKWqeshsNOIr-2BHXLmcGg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Tom@tomlagona
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4l9zGR34dQ1id
+XpwwgIDT-2F0wJIssACw7Cse-2BbsLUecMH_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTs0olDdybE8yBWf4OiAY
+6pOU1iLw6xwbtthmsTGD8RecT3uhh-2BDSADYUJQK9BI8DS-2Bys944R02iiBQajEh0f-2Bd
+FlJVQLs6NMRuSLx3NVcKnwcZKLYhuvMtGnwxcJawNDRC8LVZF9eKMGNigR33dowCkk-2Bz83
+J2yuqAHgWMFJX2PyOb7HUFMEt7GLA4v5As01G3RbELtOdq0uoROThCmbOvVwzv6m821uxc3X
+Q1EgBQzjfjNT6FH8my5qymkTOEnOWXUJSLAQw0p-2BP6kwIrq9NcH4G04QCNUq6N2wBllpip
+gvC-2F0uSjsuyFZzNDoRnSGEgw-3D-3D>  
+"This is getting better and better! I love the Android app and being
+able to share media! Can't believe i just learned about this." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4vJgCxUjZVtKs
+e8vmlHdFclSDkcPFZLHsGLuTw9LvHVX_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc8
+77tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTnTVKr-2BYg-2BLEDxB9qKpZ
+Tqks5i9qrxcY1-2BiLh1OxXxgUAO2hhzT8cf93xd5NyMuO0lRW145nurs0C6CM3zhb5ZoMjp
+90zG-2BRFCClegcgFv2141kIzcX09Ti6f6PZS24vJW8fYJbyE5uYu0trPzLCxGPDKI5vnpr1
+4-2BEyxINLjSVpYMqOT54mABOsk3pGxaL2QgWbFhg9VXFu8BJ7InBnoJ6itQxNbO3kEHjmgI
+OI8TT0N-2FuN-2BXc2tpbOS-2FLtIJ1j6S6b6QIi78kHaxJLJGs-2B2XfsfkS1IlAj3OzVjj
+FswGzvlPggJRsSydzmTvGEuWK9TA-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Patrick M@whak
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4vJgCxUjZVtKs
+e8vmlHdFclSDkcPFZLHsGLuTw9LvHVX_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc8
+77tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTjVXIIiTey1uKz1I9yIGoGVG
+hVqK1A5LTBs4CUNeWjuybs-2BS9Krj-2FgJIbmwP2tMdxesq5G-2FjXGzHczxtDQsc5sFx54
+7jEORrUflbBzgMqb1XXjPnCNyr1gWGvR78-2BWNstam7WZscXNoQzgJE24kKXH5xMH3ZgMKK
+o-2FgGOyZWirT9OOD6eSVqWubCYPTvSU1JVaDPoGj7iuk2Ve7BLNMi33FKGlOL5trfqETMgx
+3MEHKQ3b1Jyn-2BH33SpLIossWIBBtnTPW244Rf4T7Hxj1WIBZaDu1tPP2g2Xx6uHLOF9Uuz
+ZHCCMVnBaXUUdJTFsfB7dA-3D-3D>  
+"Whoa. Just discovered Plex. I think it's time to build that home
+theatre streaming media server. Cause winter's almost here, y'all." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4jao-2BZkIhp8
+1vQirKlaXPSa3BzaWhNbiThx4jS-2FJZ7Ds_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTupewZod8HExlrE2NMyB
+7XEzko5-2F-2FsQGHMVnu3tNzSMB-2F3Y05SPNqx168QLO1Len5-2FWKWthUqGl6EaY7tHHC
+F-2FP7yKftSHnYHIS-2FZa-2FRq-2BHBjshpzC5-2BiCgXN1028vVtKM8-2BhWX0ja-2FIMT
+L-2BVhSCyWle4SGsvJtaNHxNf8f2eIENVbMHL4UFAUHYLG2siOB2GDkhu325npD7936OE-2B
+rGuhV6PilGbZks1QHm49P3Kc6-2F4SeLLWg9B9m6HJ5LkoVvM1mUnKw3Ohbtmt6yZpl8iv-2
+B4Q4gy-2F5fnpeUv1TtZU9Ywi7N0TfJ587hUF87uIL-2Fkmg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Alegeek@Thealegeek
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4jao-2BZkIhp8
+1vQirKlaXPSa3BzaWhNbiThx4jS-2FJZ7Ds_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvrMbU5J4cWGQsInEPu1
+r1x44B6qhomA3E0KyRTSFyVEM3F1riPNkXx78APF-2Fk3IVwYQZa8d6YfW27J7q1-2FS9jC3
+g7sGylLJimGav6SK9wG5S7BFcsf2Jk-2BVo0QOqb5ePo0M-2FJTyFfxzI9zLaJRp-2FAjW4r
+hhLReWXo474LAz6syqT5DWmuFUOtMJ8xTTKNh5-2BTxJ-2BADTwiE9Bc32A24uYbGW79YgaX
+qTZxSXVc85W7hCoiDF5Vn5g1hVwH5g4qWYkyKMaZHGs5iC7stZPF57aSy8XONwiS33RTWUlw
+-2BqC-2B2CIDdxxkg1oZrYKAURRXehwA-3D-3D>  
+"Upgraded to 0.9.8.8, that was nice and easy :) The PlexPass is
+certainly worth the investment." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0Pho-2BTykPh8hq6so-2Be5yJ-2Fl_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2n
+HPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkDwW0cM3BRAbfln
+TbT6aw2mdHEGvwTDRD0RCEogGV7TAM2Wdu5mc0QJ2G3HnnjF8PdoD6csiHVtdFAWJTzPIWIJ
+a-2B-2BAOZNRJ97DPSAie5MwDb5Tn5AUKU-2Foutq-2FZA-2B-2FNIcs5hvyJGYFWN7QTGpq
+yvizBzsuFp2-2BlRtTzyhSl0CxO7lP1v3LwgjTiHtHUx3domFUFU9Cnn-2Bo5lV1OZPS-2FN
+7BB2YE3njhXgycl9mejXeDVoTcQpo4uNH2jsEnehuKajS16GJsAm5nbIQIPem16WxQWc0qnD
+QmlG7skBsxHj0pbZR-2Bc3frm1U-2BCB-2BWxokfGA-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/a15a9512c5d6e3237b7c03548fde3f19> Adam
+Magnani@OWoboros
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0Pho-2BTykPh8hq6so-2Be5yJ-2Fl_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2n
+HPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqB1czt8OSOXUZlC
+Hum2-2B0HsQvb7e-2FehYzgP3n3-2FHTS36QlVGnwOqxoKAgc-2B-2Fj0IJzyr-2BTn94KH9
+A5fDJDFZggKYYvYVOiFEyEUBOiYLIOdWrYRSD3zoh-2FkOEpYIvf1Udr5tLFRNQsAv-2FKnl
+b0oddDvHax0zaPs12PqD6TU3X3vdeRh4VZpZerTveh8PAY3Unvr-2FXDy7ISWUlJujgseO88
+oOtPj59RB6DW6HCo-2BrfWNvKW8lkpDdRh1qR-2Bs0oYtRITLNFzA-2BzHaS0f-2B-2BnRGF
+dq6gdBucIfgmtzXcg0NqUr0-2BRuG8VTxLkDFWNRlFgA0iuQ-3D-3D>  
+"I love you guys. PLEX makes me and my very spread out family so happy.
+I can't thank you enough. I've bought my lifetime PlexPass and i can't
+wait to see what get's baked in next." 
+ 	 
+ 	 Join the conversation 
+ 	 
+
+We thrive on your feedback and what we build is driven by your input, so
+join us. Follow us on Twitter
+<http://email.plexapp.com/wf/click?upn=rJaioOyUphBD2OEoq8NcWihu7HYESXcZW
+ukc1r66lXnEexhi4pMdqs0iVc-2BT8nR9_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTv-2B7PxYkycXUXPqYyMq2
+F8dnbq7TAFx5-2FNitmmMIzqmpCtzXrppU-2BSATshSpz0sxNaAJr04u-2FHX1CbmEy-2Fyx
+dgp8LPtZyFIdC59wGZGpRMha60yU5T1EUjZvYZVcADeMi5FZ1SlvqOVW1mqFuwhxiMWYwqtz
+TX-2FG-2FEROQash707gkxxHW3AMVTjKXtv9-2FYZfICmb4heaJvbOYvGrLPcfcXS86WvabN
+Fy-2BPUUIP-2F18K0W-2FrJhsllJt7OZUQDxKaUgUYdPlV4nykMEJyKM9j6u-2FxZGOV2ACs
+mOYhOVtzlwh3Vs4T3gMWc0fr2LEf4tGQOd3A-3D-3D>  and Facebook
+<http://email.plexapp.com/wf/click?upn=KSq-2Fh2G1t3MxflcaP4SZY3TuS98duXm
+2hk81ZxFNOb9vRH1ZBOn1QPJIw0ox-2F3Gk_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTptk-2FJGqu4nLAOPwop
+xe8DmKPJM3V1VYARqfJfVJ2mE9RXAuxNiPe1SKuAYOGAGmKwXlSV-2FbIj34w9BHGxDMMgvS
+kXFMA4FrBvs5Z1E0DXftd4xchimnCsuydRnRKQnfT77YPvzeMq7d9vnqObbD-2FOAFUYG9wd
+F2Qz9XepvhCzxMa3iKVFnQFT2w5-2BoB-2FSkOkehREkyRIRmy4V5jud2msRWHz7I-2BX46H
+Yn-2B5mk5qIPYe8-2BNBNTQ65e4RrdUhZm7aZ5-2FO2nfvRI1fT5v4W09hyEiqL9UZkmhGfH
+ew8WHyAfykda9S78-2Fe0SNRZdcas9qI-2Bg-3D-3D> . Contribute to the forum
+<http://email.plexapp.com/wf/click?upn=0a4lWH0al0nxXUhbViBwHc6pd9B3TllbI
+lf84EdhmqDjAOE4mrAp6Yx6pJRlvOySG4ctvfnzaiVatKEwVFFrySnJXVx3cOJeAKAGjystQ
+-2BASgggI4UpAQ-2FyuGnV00k7wHN6X3TuWubMw3cWWuhDrDu5SmAcZ2ZgQTEFne2Bzru0-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTho17amlvPs6BNd-2BVOVzH3bgzSLA0lHW8Bs2ITESS5og48-2B9Py
+GKsbQdwDAjqNG759rihPsDs4mtwfQkqG9EPdcBG1dFsQEEZ-2FHRT-2Fo-2FPB0TWN1JhOZG
+kNIT0KfGTAx6QvXWqVerPH-2BHB7AxKEFIi6hfr0OdJoJUoqVDtkNgaYE5J4PBJSXJIwRnYg
+7mgpUC9r3nxXCKp5BuTd5p0SeAAKNNURn4KsIq-2BQyAWn37OXl6dH3nuM1TcpxcYvIlr6We
+52wrj2iS4CB122nnMaeuA01C6Y-2B1IpMEhpqtJUKiBO1kKAGcd1U-2BkcsnbR3KXIIG3A-3
+D-3D> . Read the blog
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvh92sepj-2FUlm
+urVlbxioyKVX2oedgt41ZOAxjXN7GOYsuw3ccG1NAHqlBALbfR8E2DCxP61cBdu4MJjISDto
+vPXIZncS2iJMWpgZ7nVT7uqWbYyYTopEdzKKl8nGuVfG56wYPbINB0srR-2FU43x11mnPM-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTpzUdJBVD0Wnse3UwUIEGFTzBY8Tcjjb1o5CBumZCPSjvh-2BlztHJ
+-2Fas9iqEx37exOmzRZ-2BfdWhq8G5WLCg9UHsKeSqc9CfxNA-2BhZoB4pBltyxkgziExhIQ
+gqtvtAb6lvZe-2FoyUBp7uVmnvPzLrF-2F8vIsHJ0-2FEaHXHFmqOiK-2B2LVCZpjzir8Yqf
+KxRESctWUuBYzHqf6RPq2i81As854jbF4xZS3FbsoBkmYCaUlTUevOCPGz7km3js490lbTLr
+QmbpZtlJcXdwLeYt-2FA2w4ngxL3IFgfGvwEy3a8vMtiaTRgB5Un5yRqUrOtolcrurpTzw-3
+D-3D>  and leave your comments. This social media thing might be
+catching on after all.
+
+ 	 
+ 	 Plex runs on 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbajKKTl5CEQRT5dNOStSU2HCG49fi4CqZbv-2BEWx4lHg6iwdW-2Fi02hC00QmTYk2ZaE
+GI-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTh6ryshPy4YbdtYIMD16I0MGeEvklQ-2BTVroglKYZ-2FivXzV
+hxurZet2SJ6ig2ZEOdtPzBLacsjjwFcD5oka0OSihiVq0srlDBem4bkMcu1ZCDEWvwA65XrP
+bX02rKw8VXDEVNKkVi7lXjotHy-2F85wUnCWzr-2BqPFcuM-2F5E7fG2G6SduyD7vPuyAC1N
+ERRDdybB2O5KqGe48doM0XHDZPr7K1tBGOXCfbnJudizrWtR5-2Fc5Zdn5lNUQZxUsvKALrU
+x9WfOK-2Bobw5xCi7PXR9A1leXkVPkroGM3pfom-2FAl-2BZv6RYC-2F0a0pV1sXKgiG0V7R
+Y-2F5A-3D-3D>  	
+ 	 
+ 	 ...and is fueled by Barkley 
+ 	 
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2255525_17df4b30db08db
+a3fc588b71dc1615a4/a25f24532f5bb30a921d7243c37a8099> 	
+	
+You have received this email because you have subscribed to Plex
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbaim0pT3ek-2F398WgJM62poGbf9zjPyvSXYvtZpxOt6DjyIqVY6hrevm-2F0VjR2wuu3
+nI-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTqU91IvMhiuPvmrSBxQabRPw8KHEBTEtHIcNiSqS-2FZ2v100J
+MoIiobwmwUHGSlLY689Clud9wGpZtB-2F-2FIQocSb5Us6t1xaD07T-2BdJ08J6Kjg5GYb6f
+Bm0qDtv6ZgDmEdjNJHKk4n8upVdktUEN8Wxa0OiIZjD4bkXUivw3kiTy8uvHgUVPGzD0eIjc
+XOewd9iGHoUfUh4Yl7cLlyF4d37Snt6tyjyEpFzMsuwV1lnk7TKKNI2-2BdJPyJ9XUgFw-2B
+ZeyCB5U8pXjUmhDmnMAFJoWIlj-2FHinR3xzLUuPQoyKKgYWM2MUHWUXDb3BBBjIQ19Mpw-3
+D-3D> . If you no longer wish to receive emails please unsubscribe
+<http://email.plexapp.com/wf/unsubscribe?upn=rkwuK8TjtAUrSFYuN-2FWcFqYOA
+oqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvLmHJxG7E-
+2F8F1a-2BV48goSPFJV515kvSgXvr-2BuaS3xHihkKlZYZGI8iD-2Bgz-2B0l8L7-2FkwZPG
+idpYNtG7nCQ9oO5vL0NYmlk3vT6irF0DjU9IGPEfvNIRg-2FzfkcXNlMZHlqOJ3PlP37fTae
+qL3QjpndyiTbXZH2TDcAX8RUVWkbjmzns-2FzLOn-2BwmD5hwkMgb5h3AFaBsfGfIwFc8ZUj
+1pt5DSqulPkSLSb-2FvGH-2FK-2FLbam09TyWaTg2t-2BR8Oa1jAZO6-2Filx6MhhJcwvo-2
+B0JX4n7GoLjahXdhaX9Q9qcO05NInpq3bg2GLWosmlbxDxCwn2m0Q-3D-3D>  
+© 2013 Plex, Inc. All rights reserved 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0M-2BPUdjUGH4CvGDVULiUxqJ_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqiiGRry26Ba5yMZpzHr
+wxy3rf8JC5EoqAAeeRQ0TQnnsY3cV7Bnb0ejPOPMw18B4ns3Kussq13FPd0cJCMSNoy7nILB
+RD2QkOEutfq4IfwXeOhqHzSGLtoII-2FbP9x4AfuINYix8C9k3bXbjGE-2FvDjr0gCvSCiVf
+20m-2BEe4L-2FjRByBIDZjOpOjBRDoAWogoN-2ByzGAxt7Lwt6Go8Zj9gRBxQAuPpwyxPNYI
+q8Hc2pIjXrw6TjV3zxWFHA-2BcfFE1GW9l-2FPMj5pbPBTY1gNlJ-2FIjIqDu2ZOIh2vArSn
+fZoUZ3o8t2eYzvqF8QpvWU67oXGtdg-3D-3D>
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4q394k6-2FbKd
+yvMUgpCrC2VhVJojV69aGhvhE4aUYHPfb_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTlTllA-2F4hUJLhXCklFMm
+-2BKtKgjNihk3io-2Bj-2FfLco2cJrKFDZau3gr8TkPcTHzgeqvM2RkcA5IzIMokInKV75bm
+ZJgBZbftQ9HOWON8f6-2FOBc7vHJZGBzJDc3dvQsxbT1LnkVDb7Gzobua31KjBha0gkRZ3wk
+bqRNCbEle1xE812KIseRn570epWt62AvMSfejbdWgiMUos9YZYEIjELPSqj6Ynt63bH8iOyH
+93fXs0WXQv2kU3SU8IAhKFqaqn9Yuz4j4pnsHkICSDl4LhdRaOzkLMFvQ6ctNrzhb-2BbSXc
+Llrbz-2BUqU4EvbhEiNzMbFqAQ-3D-3D>
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbajMBgXmEUesWeQnVKp00gxIUa3a2fbF6M35Ocf-2BwyQNGUwvKHuhR2nU2kikWpHKss4
+-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4R
+kdB0MdOmySUcSIuV8HjuTrJBRfCsI0Ned2zzh-2FhhbeZ7tW2fgvPNlMNJ-2BmabG817H4ch
+hIq-2Bk6jbgCo2TeJC7wqhCD4YiYBddL9rD-2F7-2FBgTUw2Y0ofXPrxy9Y5s2rAPcEcfvpc
+h4PVFYX9ZplDF0Av18V6aeISubject: Plex Update: Introducing Cloud Sync
+Body: Plex News - October 2013 
+Your source for the latest news in the Plexverse! 
+Trouble seeing something? view it online
+<http://email.plexapp.com/wf/click?upn=r919yovET0liWEiak5Jqikj9SL7XKBVAw
+YCcS9D8-2FWgAVVHz7dp-2But6IH3F8D-2FNBfKIxEy1cGmOwrxsOku6bzMuhaCUyhkb30D9
+10mPBrX1Vmq0izCDzhVpjxm6nm6NBrsBBkWv7Ad3xs4bsxXdY9FUJ5QAz3l3oO02swX5cPsF
+p17dNkEXuB0AJdnmc8md6iC-2BjBfG8XtX0j-2FjC2YG7IDMb-2BjMhtNcQXUVvMsuzevbSp
+Mftx9n3kSJ1ERh9i07OjZIGKoJJEfDkJTCAODcyBf-2FcgljlYCgb0g9r-2FX7jiIM-3D_rk
+wuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0Md
+OmySUcSIuV8HjuTp3iEsZl8Aw1YQD6N7nxKe1j9YmD4n7m0jQiqba1bzUj5dlb7dl-2BfWHJ
+vseYDZ1hKW73yPFeOMoTEJS4EzdCsukECZi992wYui-2FFaYg2nV7YsciqN5WPa-2BUl7dLB
+En5tOMrQd-2BWjTi6PrwzDkhkIBy-2FCnkb3-2F4lv3CmJTGkD2Wp1M6LcOCmF4eSOnDJ3pb
+T-2FohDELYY43nOovJljR-2BHG5P8lT-2FQwYzgpaH0Mt3Jap-2BtxrrGpCSxWx0nOoozpmT
+0fpleiWeepnRsgkF-2B-2Febv-2FRv3Sx2o2iOW3WrUBXIfyIp7TBxPfbnMKq3nJa8Aifr3o
+fw-3D-3D>  
+ 	 
+ 	 
+Plex, Inc. 
+ 
+<http://email.plexapp.com/wf/click?upn=KSq-2Fh2G1t3MxflcaP4SZY3TuS98duXm
+2hk81ZxFNOb9vRH1ZBOn1QPJIw0ox-2F3Gk_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTq2Eq2hBBoe3AtldRoT6
+hq3XQUteC3vm32tNrzYnvqi5PK-2FRT-2FVRJoKIVv3cOwjBWa4hUpgfbaRcRcD-2BLik3gT
+LrSMEnhUivQYKFxcWHD1TrdB1AZmZIhhzcY5d4uWQI-2FUdNqUI2ehov1dnMXQ9so9OC7xCE
+hWRlkBYACmWulpd-2FpkZYkvGFlm7opNCc-2Bzkd46Erxz96F2aqqytB7tk0H9JECZpsNudc
+Gdk10wqzVbhNTAlT2SXs6mHge9Dh0JcHBcNISAYQW33vnmTw0KdmEdQrn83tX2UEBiZdZkjC
+bKJc2W-2FvV86HKSWw52fCiMWOMA-3D-3D>
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4q394k6-2FbKd
+yvMUgpCrC2VhVJojV69aGhvhE4aUYHPfb_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuThcmmEPqmy8g0IwnJ2geix
+nWIp9YZQbSO6pedvvEw4zC7OTtPvpFy6z6TY4Non-2F6yLZXN-2FDC2ipQQpPFHer3v-2BKp
+HhGNAaUlHPHD4G9kH1ujF2Jxk6s5GZSVNNyfkIMBIfOoY1d5pInESGwJiv-2FMKFmZuNlFuO
+btgauqgTtVFQYM94iy43qeUMks1resgF7ofAAdF8br-2Fw7yyaMnKZUJULmiZqxWHvm1Q8dy
+QiaTGN2MORX4HAm2ZrBeLptgKlaZZIXzk-2BVtyLzMSW5HJJBxeGwaU3LymlDwUMFe3P-2FX
+vRhGAC2pDkca-2F-2FG6tf-2BJIWsqNg-3D-3D>
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbahaEvFWWFfW83UlGId2pSDS5URHpcMnqPxMDPvSUFRqs224YVx4WAowRx8EX737Wgo-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTln1N7ljqQr0uByvJ-2BOozXuTV1K77yp6Ggyb9FNccFBfIJJPeOR3
+5YCmnt2u2eh-2B-2ByUrEL9SN9p4w4TeuW9ofiqAk9xC11PRG7qrQ4UAHrv-2FVe0t8-2BAF
+5MYyDum-2FesscWAvlzJsJN-2FgXYgowS2mNMCUF8zwDoVYfJXMXQZDh1czvBTAbOdqMiuJQ
+zdLowUfukGUp4CQWui0BB7zZYTEMllsZN20geG0w6GxUPZ-2Fx4takY1QXzDKKRMQ4jNUDPW
+4uz5msHZZlBojWmbmAJqGr-2F0emcjAPSHtoEYmqINdqIEnpCfqnzHOYR4jYCoL9pnYXvA-3
+D-3D>  
+Newsletter October 2013 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbag13GM4odi-2BhyP1lxN4Bo1tkDgm-2F2SFQwsYB5seEFAcD7UmMSm1dtFPJeklv9Yi-
+2BWo-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2B
+MA4RkdB0MdOmySUcSIuV8HjuTkeya9oT9k0mTvYs6H7dyK4T6WLO8K9fUy6QQoJaxBDfZIMj
+-2Fd7ASrvW7WQbDFQA-2Fm8neYEtFid9NREIih9NRdBFpRdlc-2Fna12beSZ-2FU7hnNPLjv
+gFLYAp2qHGzK6UB-2FnpgiNUitsdtdJi82IUGX3DNIJgn13MdE92snM3TNS9POyD5BZI87zp
+v5E6p3YCBvcXw5m-2FCcwvZUa3Q6jGLrKnMKcr-2FjbN83Ph6Cjq7Z5FaOaTPDiOTn6ncXoH
+NTSHNd7QtysS0OW47yJfcxWnC9pc2fc6xqQ6YFC-2F55amnvIJYRMKNmVQAW2b-2FPx-2B2D
+-2FlKlfQ-3D-3D> 	 
+ 	 Enhancements everywhere 
+ 	 
+
+We're always striving to improve your Plex experience, and you've told
+us you want to keep up to date. We're glad you did. We've been working
+on a number of enhancements and launching new features we know you'll
+love. Plus we've added some great tips in this newsletter to help you
+get the most out of Plex.
+
+ 	 
+ 	 What we've been doing 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFger-2FBpbfHHFV-2FRtuYBu4
+3DwHmy8pMe-2FHsybxSR-2B5G61SpkW7mmfakUmuawHczkt1g-3D-3D_rkwuK8TjtAUrSFYu
+N-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8Hju
+Tv6Qo1-2B35VEyIJUJxGD4gyahgtVjRUYzUEJ-2Fo4Uvsh0zfOXsWzmFUlJFNuknQ66l2DFQ
+UU3kLEqS9e-2F-2BPuqsmg0CF3sRBau-2BH1Djjj9tb7Gq-2BSpOkcV1TkdGMc0bZDOGW72u
+ygDM-2FtdhetZFzAtY2kVJP-2BRUoaEKlRXlZYWFtVhAjwcs8U3zXmmYGTGcnBeMDmRuCrr1
+eWgaE2LFDMo5EqlB3GvMxjupxBSXbLfY3ZrdoDhqpHAbuNyQWqdwM7gxyUlek0EjiRqN9klj
+GbzaW-2F7k3GX3bSC1JJGKHJbWsxZ7aA16lxNWPkmVs-2FpWNXYVYA-3D-3D>
+Introducing Cloud Sync (beta)
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFj9qlomF3YdXJkBAivph4ndzY
+1de9cbwEFBgtK5fYLqQkDH2MQBdmLRoqYDZbCxL-2Fg-3D-3D_rkwuK8TjtAUrSFYuN-2FWc
+FqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTp-2FU
+HFNUcw0eM-2BObi2InW-2ByTVgLjgK19GvM3RYSq5OZ1Df8cKTQ04LJM9GTtBhTS0U581kIK
+54wK1LsiCRHepLWhQpckUd9bfPxWn2Y1z3YKNyOXfpaAmyniIRrYy2QeNuNx89LhWE3t-2BP
+JFWioy-2BpRAm0b6-2BGvjUL0aWdQdnHsc2T0BCza6HPknm0Qd4KJhC-2F0b0Z-2BKXdMtFd
+Q8Ta8DYOUQUpPRDIDhgAcWyezBWeE99Es82OEwxRSDOwTZu3oEbn4d0kmEUUbfLwyVa-2Ft-
+2B-2B3MCAsRl9KzxUmAXtHZ21lplJqtNn-2F-2BZ70SSzi-2FlhO20Jw-3D-3D>  
+
+We know that streaming bandwidth and storage limitations can be
+frustrating when sharing and enjoying your media, and we'd like to help.
+Today, we're excited to launch Cloud Sync, which lets you sync your
+media to places like DropBox
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjnxB6ZkEXZ1Hs5
+JZb07CQ9vA-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTrJBETFrjPBKG5wWNHzNQXbRA-2F-2FKUN8-2BdrBy
+ctkPnfhM4gJC3ib5ZgxGtS-2FAIjIQGmmajq1fBuRyquSCGG8unMCGbQkrJiVsz1N5a-2Bfk
+ygg9M-2BgI2lYcd2CHcUPyfXnLv5RZwCKIBHLJsBtLIeqet5y1gS-2FLOHRnWJgNiPbfDgXK
+xkatcLwod2h0ppmzOaGPsfHnCeCmm62BPz3SO3kOwYngEqeNIoBC7neLMNi0gE8XPwYsQzUi
+oLFaZnNShpNiaEJNd5f9TLWCa6dhZw3g4EOwnxNMcwrIis3ocjcMQxr3Vp30n9vPkAkFqsl3
+O7zJkw-3D-3D> , Google Drive
+<http://email.plexapp.com/wf/click?upn=Z3iYpvyb2hAZKgvCAvedmQK2FNEbaIn6U
+k4XWRj7f50-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTs3e0palyDkf1VmhJKrhBnTNN4CgkrQ7hy-2FM8F1d
+iHCgKvw6fhAsFDG5ZT4OsQA9X0jgi8ber39useCFipc5mO9LH9QT-2BpEbCSSV3v7Yy3mtyp
+OBO61ZSfzu-2FcnKVkHOjVb02Unryz-2Fr-2Bm0r-2FfYZYRlEvfS1-2BHAhzyFVS6Q7TsNL
+pSrcxQ7P6aP2L1Ox-2Fx5LUPwhCQPX18RbPUK8MfGb-2Bc4cSnu1v6NChGmasIZfUlDPAN7i
+P1LCEUs-2FvUn8fT5BgrEef5wXBbJ-2BxlwAlGTFnpKhYlI-2B2TZh-2FfXZnwkovK2w4DMG
+7NHjHG8aJMQ5n9hrmA-3D-3D>  and Box
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3LjI1bOB6mJ6
+N5GtZWNPSQ-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkdRDKVD-2F5yUjb9olfOHKWvJ6ebr5U4iIPmT3vod
+mm6ik-2F6Ab2rWhEwP0KatKFcf7V1Pfj939Ito5CZrN6MRVFUxAdaq3E-2BGfCxj8Belee0j
+FB7iWBnNtBqJwVf-2FG-2BMXGLbxaH9abWAzg2aLnxRxpfsGGgwVI-2BZjn0xsGxZ-2BQuMa
+USWh3arywKJ1bT2vcDf4pX2qGbf55ZS0V9V0E3fMPlJx0A4jN1zrUVcT1CIcLztmA9PI-2FE
+edHhhe-2F5MgIIQQsYN2MxaKleKOciHw50KhaKP-2BT1MNXknbcyqysRupA8448bJMFVkym2
+DlUrhldWoU4w-3D-3D> . Your media is automatically optimized for
+streaming and uploaded along with the rich metadata you know and love.
+It's like having a media server that's always on, even when your
+computer at home is turned off. Cloud Sync is available to Plex Pass
+subscribers.
+
+You can learn more here
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFkl0ee9PeOS1w-2FYVJ0Uo0mc
+p-2BP-2BGSbhMzGrPchDykjh-2BOeHkie7jjFNen91ZT7Zohg-3D-3D_rkwuK8TjtAUrSFYu
+N-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8Hju
+TjGIElEf4HisT4FPLBwWff-2B-2BVBN1FnxbcJoe69XMuiRaHu9A8vVcNrKWa9t2ojrV7ATi
+RUzQkKv9hA7tGj3PdcKePiDcn6zuZlaT0JJvTWJauv3hff-2FU9iLmiT0Z2C7634dUib8OQP
+9lMsn6PT1CQvUXbymWHU7i23n5mPQkZ9WRvftU8ERNmrIFKgx70-2BtWtzcwkH8SD-2B9w18
+TLNEtoUq0CqF73fWLeQcTBd-2FMTL3B5XRekiUipmDHKj3llQnHitEsJSDTBJQIESLfHdpoC
+PM8xxY03iUoXA90cnshoKHsKNYUWQuCi0ivP-2BK-2BBrhP-2Blw-3D-3D> .
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFrxaCO7X79hdc7H7pdYkcOYmJ
+e2CSAHZ3GY6K3zL3GsXKY9vUPgBDLJRnMivVKzBOg-3D-3D_rkwuK8TjtAUrSFYuN-2FWcFq
+YOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuToj7RGUu
+XlYHo7uT1-2B9zz7CAViOOdZt4WWOT9gTDOV9UDOZcGe46SEcu-2BDfwSlFm9MctqMmgXgZE
+WTwPyj0wvH5WufUeUTsJQg4TqRhi8WAc9ycODKjZfLY6FuaN6tFfhJ0H81yHSo7Xs5G-2FO-
+2BV570obMYiCL8m3AyLBpRR5Tf0O8wSeQGdSllNbWc4sUpeKEeJmf1lzZkb97ezvNYzElS2m
+weMeFtDkdu3NyWkJm5EFGwSEI4cs6hYoaq1TJSwaAYBThYHKzuEusrFYWpsaQP-2FU5ls-2F
+woLKn7G1zqIPO8fKZTlf8t183Ujt2wMIAD2sqQ-3D-3D> 	 
+Both myPlex and Plex Media Server get a boost
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFrXCF09K64iMSJ-2BK7YqETl5
+YQCFJrMPHR2PSU9y9Pl-2B8GSWsmlKHNAkmExVrx0jQRw-3D-3D_rkwuK8TjtAUrSFYuN-2F
+WcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTlKx
+yW-2BLHsCDk8BhW0Dx52x4ZGpC1gBlGBtPZByo9tZm7LloYv-2Fb9US79Ig2TFHd62HIsEW3
+tH-2BTLZvepHS1IoIiW9gweyEpqAs6q2SutaY06w7gt3xEKnjDZZdzbgnLhwYOveUtzflarA
+UZkj4leRggNoWQ4BWpbr0LOBF-2FC30Rba-2Fyx-2FvqviJEzrY1wbXPpxTWjX9qOOLd3CZq
+cTC0jPC-2Ff6m2eAHimQz1NSFchvIcJXfhOz7RldYiX1e4D-2B4skfAgG7itfGCJAfCucg2Z
+mkaMZ4PZRlN-2Bwkknt-2Bg51txOBkVWMUi89NFWJxRjN0oVUg-3D-3D>  
+
+We've made your queue and recommendations load up to 10 times faster.
+We've also greatly sped up scanning media into your library. The quicker
+it gets into your library, the quicker you can enjoy it across all your
+Plex apps, right? Movies, TV, music and photos all scan at least three
+times faster, and scanning has also been made more reliable. So, if it
+feels like someone pressed turbo on your Plex, that's because we did.
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbITr2PPjT6-2F5nc4d0hAnqFVoe7oTj0F4z-2B5PD56aKnzadSKZ1y2y4u8KXTMs2E
+OXf0-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2B
+MA4RkdB0MdOmySUcSIuV8HjuToRcUTBChJMdKxWwRvIJiclu639POlFtGwdN-2BXj9YaYufY
+hk-2FeZMVmUPCb077gRPl4mS9LmJOY34mijMD0ym1ynVBzR2XDCqaQSsAmlIdVGL15hN6F-2
+BfjF8CaE84W-2B-2BvQ8I9GcUEL-2BCDukXXmi2x-2BughhU-2FXC1KKKEZYrXgL3GsRPE7o
+Yd9jjlXP5-2B1iBhH1BQt0JXzrFKrsTdzCM4aMKXe3w9CDye1ZMuLp4wMK8Up3mylejs1TXc
+UuAtjICdZmzQ7GkdDEOq-2BfJ2RNFYrl2bGLNMW9-2FYmCVyVmKHWdntHSf4FasR3sqVR7CG
+E0-2Bne59Q-3D-3D> 	  	 
+The new bookmarklet: Save, Recommend, Fling!
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbIKPClRuGSZxr2ox6sgqrSFq-2FuORro1FMqoSSzWz9N9vIp-2Fo-2FIOajuKfqXqD
+sN1c4s-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-
+2BMA4RkdB0MdOmySUcSIuV8HjuTt-2FOh1z10gokE5K3l9H7V5vNR-2Bi7Qv866FvBaGwLlO
+I7b2jwQySuQA-2F13B-2Fm8LaS-2BavTgnWbzauDGQkuvnc6G93ZZuitfnZaTLh7Kr1THkrk
+ANBd-2Bdn7hnUZNRSRwXI-2Bg3I-2FvX4LLumONgW1KITM9pQkgItEo4zYA9VaYl8KbWRg9v
+J2hY-2B3IVYBeJSdeGjPNXnQS6RoUpSpUIZqTYiOTot44nLvMjx1A3P0EEwiJCm7RynLX8Hz
+zzrLqlKcX7keOFBhHBOH0Hf2ElO2RmQpBsWh56f8WU1hkmmEQQRNzk1g0GBeJbR5jxGXS9gh
+H7XeYA-3D-3D>  
+
+The Plex bookmarklet
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbKHZOJV776VLXzP3l8mRCKSlPZPOjopR3S3WsZR21yKxynQGQ4qdWBzHXLxH7D-2By
+Bc-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTgighKwLGKnNoo7sr66MssBbdGkzCcOoM9xbTeSbCdAPUXtzu9
+kiIWFffhgjxr2KSqg-2BubYTg3Qj-2FZSwoODBkdlO81wLVbO3WaF7MF5Idcg9sOcifvvLvY
+1iJpI8wcGI8SGm4VZ1ByS9JUDVvQH6skBb2dooGqkPHX-2F-2BRq-2FHgF4g1N5WRFCq3ZL-
+2FwZSLxbDGragX8cEPRYsRX5FITuza21Yx3nfpnBf6fA3jmuEVI-2B39qAvYxArg0r-2F1O0
+tI8-2Ba4dKdHLiEbEGhJtoeaKkqkd2pdY6m2Yg1vsho-2FdiM5kadf2hzDMDyeW-2FyhuFMK
+5D9VYA-3D-3D>  lets you save videos from your favorite online sites to
+queue up for later viewing on Plex. We've made huge improvements
+including a streamlined look and feel and an easier way to recommend
+videos to friends. Now you can also find a video you like on your laptop
+and watch instantly on your Plex-connected TV. 
+
+Simply add the "Plex It" button to your browser
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEre1R8swioQ
+wgbBzhGFJmn9vx7Wh7TEe6LGdttX8qModQ6dhvQ3pe-2BO-2BpITJMz2trIO-2BUuFVtF9jq
+pYhpzdoMoYlPZo6vXYOJlOTSPWmBFxHmM3BYsFcZszCXppPBpkC5-2BkT2cwSksMtvgldQiC
+eH1M3EFKdUtdSCuZ5xjK9rG4Y_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAow
+S465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTt-2BhInR-2BrYVIeogtetQh7QRRAF
+mKNAxiamO47d61dRoiRjZjhtDqafJYyW5Bp-2FSg62EbtPvrlWsa7L9ns4TmT-2FNwNyjOLZ
+7woquDWQW-2FAv67-2FK7dzGO6Cv0KxzzSFUnjKg4pc7hxGNUcL18nuQJLrTpACQWue5r3cV
+en-2FpC9BTfW5kTCOkqovEvqsBMSp7NvwxJCH4XO98WRkfC-2B2jO6cRwWkkEPBAoxooIuka
+J9oQ9xCKrmKuq1XD54AjPObfK2XxxCQJpjIb1ezUMIjzFpDsB50h-2BPrNbKelEE7TfAyduL
+4EjDbCt68hJwNWfEjWqpPg-3D-3D>  and start flinging.
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmWFCd7uYPUD5Sy9aNJB3WBAgqt80kaVoo-2BQE1LryUFiJdJxCPK8ihEpUCT
+ohofg-2B0nZFCR2Q2MlvvFxsM9q1DdSJV6iRKpIBpRqLjv3uFmphmcY7IxptseB-2Bytbs2G
+gMNVu-2FbNq7lVC82VMXXGRCEwj_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tA
+owS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTsKasWbXFU6iNNdWYnFI05JaARhc
+hSH5AuynBwL3phsEhlZn4l8jMhS8-2BdrNU11eDzU4Kop-2Fri-2FCJJx25EXCUi7fRkg5DI
+ynQ42G46A4jhi3STivXQOuIhZkuijjkmxnsALRZ9Ij9ptTpzHLGJ-2FL3z6-2BfthjKsz-2F
+sL3mSLs21RshzcpLJsE-2Bun6VkBrgaJl1sRD4G4dXTIOH-2FAejlnGUpwhLBhYBkvmBS7oF
+UA4uxeQGokgTIp9Kph-2B8PNVLJ4an8ZHOAzLYdRBkzyvz8eLuUUCFKqwsxT8il9RzFpYYQ8
+4vhFWiYIFb-2B6EyDQkIlG6LhA-3D-3D> 	 
+Plex Pass
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmWFCd7uYPUD5Sy9aNJB3WBAgqt80kaVoo-2BQE1LryUFiJdJxCPK8ihEpUCT
+ohofg-2B0nZFCR2Q2MlvvFxsM9q1DdSXMO7iUAzDAW3iN53a4zk89h5RBArncnCHMO9EA2IF
+XN7n8zqK8X9Nm1csfxS8Bd4_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS4
+65oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqaVjdzQ6ZeW9ZEXblmHMZTAev4rfvjK
+Usi6fVB0ESb9nxc5Hv53nmtpohmm7zW-2Ba4qBCO3WAxKewkBfDD9rtF-2FzS7Gc5BQLH0R9
+y3I-2FAkz49OXZnz68o7n-2BbqnRUI7eY8UMzG46pKoPytw-2Blh3RMG-2F-2BvNK4zAWGzo
+3vLH7L2Q2FzUL5ByExve0FwVrZ6dhVYP8IfxyFm1V8yv-2BzYmhQg8ptSUV3N2Za80jHbDv7
+jPSg3zu65beiOCM5mnwVt5BlVeK7RFePbTNvHLRuyyD-2FN-2FQvsZVqY89ulQtZHzUi6ZUw
+N4xkRwkwg7ouc5KnfjoCpg-3D-3D>  
+
+A Plex Pass subscription
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4pCW1GSpS3nrs9XxxsTxHvSBY5bhmiD9-2FiMqEIRbZjDXv
+ILmmJ6HNUGto5AZuYD9A4_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkUs9PHa4xUDxjemRt53iA2spTeUVlZvNG
+JltHxMI4vzP-2B-2BSVEvJ0xSFW7c25ORqypdyrOhWZKH7d9kAKw1ffv998r546dCmAuR7-2
+Fsli2Y3zshoA8bSfbYImTQp-2FWdpL88mZTvSi-2B2-2B2GM9JzFrIiNJnv0iw7Ygws9-2FI
+zsRdsBcYpqBoNh0SXvhP86RX1lEB7uQ5zL3Qt3uqIwlAdVKxUAwQ4JNIvDeREGUbw7Q3cw-2
+FNQOjmdZWePbN4rmLz9ZAr8f-2F0Oj1ImxybfDbQPZCdxbyk9-2B-2FS3pz9BSQk45HPP5MZ
+Yazlq5fnD8i2f-2BaJUwNU5Q-3D-3D>  gets you more of the good stuff and
+fuels our development. You can enjoy access to new features like Cloud
+Sync along with upgrades to existing ones like Plex Home Theater.
+
+Learn more and get your Plex Pass here.
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4p9v1BmcVnUviA98A2aIuDODgR8EMkEOPHcT5jivfVQaY2r
+f2FMdm7ivFJz-2FL8HMp0_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTmALZX9xfdVMN-2FmcjV-2FzNHqrNV7APQ
+AVs7GjqvhU7fL60-2BpBLb7oayxdUOOXAqqhZQB-2FKHx0NYa09Jck0eJG5TWFJSakF4D3Yc
+KAP4bT-2FMCQROWVy-2Fdxme6576XAZ4VX3m9J4DgGWPDQrAKj0n9AeKhA91IwCTHRvTHRPx
+sjVLG2nW6-2BDKPXFnm-2B91g-2Br4rxgMzCw-2FRTMwfpZm78-2BXom2uO8Ksg06IaB2V0I
+HVScRPDJ-2FLabqxOpZVhzsoIrAKO0PKoCAR7pXCaogUnEbU-2Fl8-2FP-2FaGfTgLhz-2FL
+c604WvvYBchlTkBsHDSf27qIL5cKOKCw-3D-3D> 
+
+ 	 
+ 	 Get the most out of Plex 
+ 	 
+Sync with your favorite shows 
+
+Plex Sync lets you save your media on your iOS and Android devices. If
+you're following a TV series, there's an easy way to make sure you
+always have the next episodes ready for watching. Simply sync each TV
+show, select the "unwatched" option, and pick the number of episodes
+you'd like to have available offline. That way, no matter where you're
+watching the show, Plex will keep you entertained. Plex Sync is another
+great reason to sign up for Plex Pass
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4pUe01IQ4PFiH11BDba5ZqRqOcsQn-2BcjNh1R1a7dS5YUy
+nbKjH3FXE0V0E0uXTrBLv_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTmHo4ZZYvIHvI0sNf6VTdWwCXZOQYsyZr-
+2Bs-2ByvP13EjNg4jMCNsSPb-2BF2XWQvUZ8k9AgJNgoo-2BMf0mNvTh2KOgFc5iw4MFi8IM
+Z7gC7c7o0yuix4S8yQNj3GQkVYKzHzle3osc3C9f-2B-2F0WyEM-2FRptQWL4XwUOWDq0Pqr
+WVbVN6KN0usZFDhGWNNBY8yCKUHLU89vIdllH65ispL71l9OBHk02qqXiGsNZMM7u9PM-2Fj
+FdusBXnUvPmk4COzNQ7xWzSKaJGGCw9CfAyDXlD8fbI3KrUm4VMm5UrsG-2BwGAWBmWClhQj
+I4XAdeFQsgxRe-2FaF8g-3D-3D> .
+
+Use your phone as a server at your friend's house 
+
+Did you know you can play your synced content (if you have a Plex Pass)
+and view content from your iOS photo albums (even if you don't have a
+Plex Pass) on any other Plex app? It's true! You can go over to a
+friend's house, and your iOS or Android device will show up as a Plex
+server, so you can browse and play synced content on their Roku, Google
+TV, Plex for Home Theater, Plex for Android or even another iOS device.
+
+Adjusting video streaming quality 
+
+When streaming to your mobile devices over WiFi or cellular, the amount
+of bandwidth varies widely. Even as you walk around your house, the
+signal level varies, which can affect the speed of data to your device.
+If your video is pausing or buffering, it's probably time to lower the
+quality. On Android you can do this right in the player, simply tap the
+settings icon and adjust the quality. On other Plex apps there are
+quality settings in the preferences area you can adjust.
+
+ 	 
+ 	 What people are saying about us 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4ghQsvLZnS6RB
+Ec-2F5YEjlNdbMNzspGHJVavrUrNjEb6q_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTrO8eNX1pB-2FK9pQz7Xp0
+EGbSneAalLxC2JyegWfvhzwaZFq-2Ba54ecAu8uNUPkTQgQwAO0tQj1mdSSTsWmSDKV6P9EJ
+FIwQpAE0f45wYqTrDYGnMuIbjY-2Br2JNKDSN4fiQWcWqP0iGPmSdowpEwkUMC1sRmhE5cB6
+ljHnOm2S-2F40uyqyCsLeit3uVCI1roTKugn5BNIKy0Sr0UjzAVqxvb41LnbdW-2BXul8aeN
+eRZ2cLjQ04ITcoZyxJdS0buo4AQ2V8lIT4SJ-2B6f29ow09a4kKaJbpZ-2FpOueVb29nKAOP
+HG8vWunoRZY5m9MdJS9fw9Ktjg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Jon Olsen@burnunit
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4ghQsvLZnS6RB
+Ec-2F5YEjlNdbMNzspGHJVavrUrNjEb6q_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvDkd4UD7ZmHKsrZxKxBa6
+3kA6leLjil9waG98h3DfM4rNRseBzds1T0958jgfxYu7-2FLln4k58PYRgfX-2FdMVy5dMKD
+kuw9OEAG7pIKUXcUvDq0vlVxLNQ-2BU7uJsYG8EavtYXztgZ6WbeFoAx3bHyYQSoUBjaRw0H
+nkrcEiZng4bMU0Rk7tS6DLvViTylYT14680nJLZxAIAph4soYTm-2Brbqc91nkDnMyQytmOP
+egGxPA8fapisl3H2i9-2FR4joDFymUEgKKYxHFMxGaiiSKBKu5U6cALRDhLf73M-2Fs2NX7h
+TucANJ0stEWYSrZHrfmIvnaw-3D-3D>  
+"I've just liberated my media across time and space with Plex Media
+Server. I am become SHIVA THE SHATTERER OF WORLDS!" 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4l9zGR34dQ1id
+XpwwgIDT-2F0wJIssACw7Cse-2BbsLUecMH_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvI1MwZfjQpkkXKG23i0
+lf0FJlFrexEpqCOBJQYKxW4oX8xjHlxDBOmXDQ1dcZQLiPdDECBYV7lAU6v33lM5Mv6dutg7
+06IebUbi8pxce4s0-2FJ57IbUlPOO0cNiim7eE4kHsgAFipEj6KtAT6Zj1rM24qYGyyqOUwx
+UlUzt-2FBCdCnhKrtFS4-2FEoblxZM-2BqRZSABEPq96qujbWX-2B-2BJzIACsKme8uLmJoS
+tbq8ywkypUbrF1Pl6nUU6VXcPWEYRjU1hD-2FfS7fenU-2F3QYgvnKB4d0aIGPxW8bOcjvq7
+TwcmPkM9tScKWqeshsNOIr-2BHXLmcGg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Tom@tomlagona
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4l9zGR34dQ1id
+XpwwgIDT-2F0wJIssACw7Cse-2BbsLUecMH_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTs0olDdybE8yBWf4OiAY
+6pOU1iLw6xwbtthmsTGD8RecT3uhh-2BDSADYUJQK9BI8DS-2Bys944R02iiBQajEh0f-2Bd
+FlJVQLs6NMRuSLx3NVcKnwcZKLYhuvMtGnwxcJawNDRC8LVZF9eKMGNigR33dowCkk-2Bz83
+J2yuqAHgWMFJX2PyOb7HUFMEt7GLA4v5As01G3RbELtOdq0uoROThCmbOvVwzv6m821uxc3X
+Q1EgBQzjfjNT6FH8my5qymkTOEnOWXUJSLAQw0p-2BP6kwIrq9NcH4G04QCNUq6N2wBllpip
+gvC-2F0uSjsuyFZzNDoRnSGEgw-3D-3D>  
+"This is getting better and better! I love the Android app and being
+able to share media! Can't believe i just learned about this." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4vJgCxUjZVtKs
+e8vmlHdFclSDkcPFZLHsGLuTw9LvHVX_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc8
+77tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTnTVKr-2BYg-2BLEDxB9qKpZ
+Tqks5i9qrxcY1-2BiLh1OxXxgUAO2hhzT8cf93xd5NyMuO0lRW145nurs0C6CM3zhb5ZoMjp
+90zG-2BRFCClegcgFv2141kIzcX09Ti6f6PZS24vJW8fYJbyE5uYu0trPzLCxGPDKI5vnpr1
+4-2BEyxINLjSVpYMqOT54mABOsk3pGxaL2QgWbFhg9VXFu8BJ7InBnoJ6itQxNbO3kEHjmgI
+OI8TT0N-2FuN-2BXc2tpbOS-2FLtIJ1j6S6b6QIi78kHaxJLJGs-2B2XfsfkS1IlAj3OzVjj
+FswGzvlPggJRsSydzmTvGEuWK9TA-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Patrick M@whak
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4vJgCxUjZVtKs
+e8vmlHdFclSDkcPFZLHsGLuTw9LvHVX_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc8
+77tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTjVXIIiTey1uKz1I9yIGoGVG
+hVqK1A5LTBs4CUNeWjuybs-2BS9Krj-2FgJIbmwP2tMdxesq5G-2FjXGzHczxtDQsc5sFx54
+7jEORrUflbBzgMqb1XXjPnCNyr1gWGvR78-2BWNstam7WZscXNoQzgJE24kKXH5xMH3ZgMKK
+o-2FgGOyZWirT9OOD6eSVqWubCYPTvSU1JVaDPoGj7iuk2Ve7BLNMi33FKGlOL5trfqETMgx
+3MEHKQ3b1Jyn-2BH33SpLIossWIBBtnTPW244Rf4T7Hxj1WIBZaDu1tPP2g2Xx6uHLOF9Uuz
+ZHCCMVnBaXUUdJTFsfB7dA-3D-3D>  
+"Whoa. Just discovered Plex. I think it's time to build that home
+theatre streaming media server. Cause winter's almost here, y'all." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4jao-2BZkIhp8
+1vQirKlaXPSa3BzaWhNbiThx4jS-2FJZ7Ds_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTupewZod8HExlrE2NMyB
+7XEzko5-2F-2FsQGHMVnu3tNzSMB-2F3Y05SPNqx168QLO1Len5-2FWKWthUqGl6EaY7tHHC
+F-2FP7yKftSHnYHIS-2FZa-2FRq-2BHBjshpzC5-2BiCgXN1028vVtKM8-2BhWX0ja-2FIMT
+L-2BVhSCyWle4SGsvJtaNHxNf8f2eIENVbMHL4UFAUHYLG2siOB2GDkhu325npD7936OE-2B
+rGuhV6PilGbZks1QHm49P3Kc6-2F4SeLLWg9B9m6HJ5LkoVvM1mUnKw3Ohbtmt6yZpl8iv-2
+B4Q4gy-2F5fnpeUv1TtZU9Ywi7N0TfJ587hUF87uIL-2Fkmg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Alegeek@Thealegeek
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4jao-2BZkIhp8
+1vQirKlaXPSa3BzaWhNbiThx4jS-2FJZ7Ds_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvrMbU5J4cWGQsInEPu1
+r1x44B6qhomA3E0KyRTSFyVEM3F1riPNkXx78APF-2Fk3IVwYQZa8d6YfW27J7q1-2FS9jC3
+g7sGylLJimGav6SK9wG5S7BFcsf2Jk-2BVo0QOqb5ePo0M-2FJTyFfxzI9zLaJRp-2FAjW4r
+hhLReWXo474LAz6syqT5DWmuFUOtMJ8xTTKNh5-2BTxJ-2BADTwiE9Bc32A24uYbGW79YgaX
+qTZxSXVc85W7hCoiDF5Vn5g1hVwH5g4qWYkyKMaZHGs5iC7stZPF57aSy8XONwiS33RTWUlw
+-2BqC-2B2CIDdxxkg1oZrYKAURRXehwA-3D-3D>  
+"Upgraded to 0.9.8.8, that was nice and easy :) The PlexPass is
+certainly worth the investment." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0Pho-2BTykPh8hq6so-2Be5yJ-2Fl_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2n
+HPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkDwW0cM3BRAbfln
+TbT6aw2mdHEGvwTDRD0RCEogGV7TAM2Wdu5mc0QJ2G3HnnjF8PdoD6csiHVtdFAWJTzPIWIJ
+a-2B-2BAOZNRJ97DPSAie5MwDb5Tn5AUKU-2Foutq-2FZA-2B-2FNIcs5hvyJGYFWN7QTGpq
+yvizBzsuFp2-2BlRtTzyhSl0CxO7lP1v3LwgjTiHtHUx3domFUFU9Cnn-2Bo5lV1OZPS-2FN
+7BB2YE3njhXgycl9mejXeDVoTcQpo4uNH2jsEnehuKajS16GJsAm5nbIQIPem16WxQWc0qnD
+QmlG7skBsxHj0pbZR-2Bc3frm1U-2BCB-2BWxokfGA-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/a15a9512c5d6e3237b7c03548fde3f19> Adam
+Magnani@OWoboros
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0Pho-2BTykPh8hq6so-2Be5yJ-2Fl_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2n
+HPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqB1czt8OSOXUZlC
+Hum2-2B0HsQvb7e-2FehYzgP3n3-2FHTS36QlVGnwOqxoKAgc-2B-2Fj0IJzyr-2BTn94KH9
+A5fDJDFZggKYYvYVOiFEyEUBOiYLIOdWrYRSD3zoh-2FkOEpYIvf1Udr5tLFRNQsAv-2FKnl
+b0oddDvHax0zaPs12PqD6TU3X3vdeRh4VZpZerTveh8PAY3Unvr-2FXDy7ISWUlJujgseO88
+oOtPj59RB6DW6HCo-2BrfWNvKW8lkpDdRh1qR-2Bs0oYtRITLNFzA-2BzHaS0f-2B-2BnRGF
+dq6gdBucIfgmtzXcg0NqUr0-2BRuG8VTxLkDFWNRlFgA0iuQ-3D-3D>  
+"I love you guys. PLEX makes me and my very spread out family so happy.
+I can't thank you enough. I've bought my lifetime PlexPass and i can't
+wait to see what get's baked in next." 
+ 	 
+ 	 Join the conversation 
+ 	 
+
+We thrive on your feedback and what we build is driven by your input, so
+join us. Follow us on Twitter
+<http://email.plexapp.com/wf/click?upn=rJaioOyUphBD2OEoq8NcWihu7HYESXcZW
+ukc1r66lXnEexhi4pMdqs0iVc-2BT8nR9_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTv-2B7PxYkycXUXPqYyMq2
+F8dnbq7TAFx5-2FNitmmMIzqmpCtzXrppU-2BSATshSpz0sxNaAJr04u-2FHX1CbmEy-2Fyx
+dgp8LPtZyFIdC59wGZGpRMha60yU5T1EUjZvYZVcADeMi5FZ1SlvqOVW1mqFuwhxiMWYwqtz
+TX-2FG-2FEROQash707gkxxHW3AMVTjKXtv9-2FYZfICmb4heaJvbOYvGrLPcfcXS86WvabN
+Fy-2BPUUIP-2F18K0W-2FrJhsllJt7OZUQDxKaUgUYdPlV4nykMEJyKM9j6u-2FxZGOV2ACs
+mOYhOVtzlwh3Vs4T3gMWc0fr2LEf4tGQOd3A-3D-3D>  and Facebook
+<http://email.plexapp.com/wf/click?upn=KSq-2Fh2G1t3MxflcaP4SZY3TuS98duXm
+2hk81ZxFNOb9vRH1ZBOn1QPJIw0ox-2F3Gk_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTptk-2FJGqu4nLAOPwop
+xe8DmKPJM3V1VYARqfJfVJ2mE9RXAuxNiPe1SKuAYOGAGmKwXlSV-2FbIj34w9BHGxDMMgvS
+kXFMA4FrBvs5Z1E0DXftd4xchimnCsuydRnRKQnfT77YPvzeMq7d9vnqObbD-2FOAFUYG9wd
+F2Qz9XepvhCzxMa3iKVFnQFT2w5-2BoB-2FSkOkehREkyRIRmy4V5jud2msRWHz7I-2BX46H
+Yn-2B5mk5qIPYe8-2BNBNTQ65e4RrdUhZm7aZ5-2FO2nfvRI1fT5v4W09hyEiqL9UZkmhGfH
+ew8WHyAfykda9S78-2Fe0SNRZdcas9qI-2Bg-3D-3D> . Contribute to the forum
+<http://email.plexapp.com/wf/click?upn=0a4lWH0al0nxXUhbViBwHc6pd9B3TllbI
+lf84EdhmqDjAOE4mrAp6Yx6pJRlvOySG4ctvfnzaiVatKEwVFFrySnJXVx3cOJeAKAGjystQ
+-2BASgggI4UpAQ-2FyuGnV00k7wHN6X3TuWubMw3cWWuhDrDu5SmAcZ2ZgQTEFne2Bzru0-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTho17amlvPs6BNd-2BVOVzH3bgzSLA0lHW8Bs2ITESS5og48-2B9Py
+GKsbQdwDAjqNG759rihPsDs4mtwfQkqG9EPdcBG1dFsQEEZ-2FHRT-2Fo-2FPB0TWN1JhOZG
+kNIT0KfGTAx6QvXWqVerPH-2BHB7AxKEFIi6hfr0OdJoJUoqVDtkNgaYE5J4PBJSXJIwRnYg
+7mgpUC9r3nxXCKp5BuTd5p0SeAAKNNURn4KsIq-2BQyAWn37OXl6dH3nuM1TcpxcYvIlr6We
+52wrj2iS4CB122nnMaeuA01C6Y-2B1IpMEhpqtJUKiBO1kKAGcd1U-2BkcsnbR3KXIIG3A-3
+D-3D> . Read the blog
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvh92sepj-2FUlm
+urVlbxioyKVX2oedgt41ZOAxjXN7GOYsuw3ccG1NAHqlBALbfR8E2DCxP61cBdu4MJjISDto
+vPXIZncS2iJMWpgZ7nVT7uqWbYyYTopEdzKKl8nGuVfG56wYPbINB0srR-2FU43x11mnPM-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTpzUdJBVD0Wnse3UwUIEGFTzBY8Tcjjb1o5CBumZCPSjvh-2BlztHJ
+-2Fas9iqEx37exOmzRZ-2BfdWhq8G5WLCg9UHsKeSqc9CfxNA-2BhZoB4pBltyxkgziExhIQ
+gqtvtAb6lvZe-2FoyUBp7uVmnvPzLrF-2F8vIsHJ0-2FEaHXHFmqOiK-2B2LVCZpjzir8Yqf
+KxRESctWUuBYzHqf6RPq2i81As854jbF4xZS3FbsoBkmYCaUlTUevOCPGz7km3js490lbTLr
+QmbpZtlJcXdwLeYt-2FA2w4ngxL3IFgfGvwEy3a8vMtiaTRgB5Un5yRqUrOtolcrurpTzw-3
+D-3D>  and leave your comments. This social media thing might be
+catching on after all.
+
+ 	 
+ 	 Plex runs on 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbajKKTl5CEQRT5dNOStSU2HCG49fi4CqZbv-2BEWx4lHg6iwdW-2Fi02hC00QmTYk2ZaE
+GI-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTh6ryshPy4YbdtYIMD16I0MGeEvklQ-2BTVroglKYZ-2FivXzV
+hxurZet2SJ6ig2ZEOdtPzBLacsjjwFcD5oka0OSihiVq0srlDBem4bkMcu1ZCDEWvwA65XrP
+bX02rKw8VXDEVNKkVi7lXjotHy-2F85wUnCWzr-2BqPFcuM-2F5E7fG2G6SduyD7vPuyAC1N
+ERRDdybB2O5KqGe48doM0XHDZPr7K1tBGOXCfbnJudizrWtR5-2Fc5Zdn5lNUQZxUsvKALrU
+x9WfOK-2Bobw5xCi7PXR9A1leXkVPkroGM3pfom-2FAl-2BZv6RYC-2F0a0pV1sXKgiG0V7R
+Y-2F5A-3D-3D>  	
+ 	 
+ 	 ...and is fueled by Barkley 
+ 	 
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2255525_17df4b30db08db
+a3fc588b71dc1615a4/a25f24532f5bb30a921d7243c37a8099> 	
+	
+You have received this email because you have subscribed to Plex
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbaim0pT3ek-2F398WgJM62poGbf9zjPyvSXYvtZpxOt6DjyIqVY6hrevm-2F0VjR2wuu3
+nI-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTqU91IvMhiuPvmrSBxQabRPw8KHEBTEtHIcNiSqS-2FZ2v100J
+MoIiobwmwUHGSlLY689Clud9wGpZtB-2F-2FIQocSb5Us6t1xaD07T-2BdJ08J6Kjg5GYb6f
+Bm0qDtv6ZgDmEdjNJHKk4n8upVdktUEN8Wxa0OiIZjD4bkXUivw3kiTy8uvHgUVPGzD0eIjc
+XOewd9iGHoUfUh4Yl7cLlyF4d37Snt6tyjyEpFzMsuwV1lnk7TKKNI2-2BdJPyJ9XUgFw-2B
+ZeyCB5U8pXjUmhDmnMAFJoWIlj-2FHinR3xzLUuPQoyKKgYWM2MUHWUXDb3BBBjIQ19Mpw-3
+D-3D> . If you no longer wish to receive emails please unsubscribe
+<http://email.plexapp.com/wf/unsubscribe?upn=rkwuK8TjtAUrSFYuN-2FWcFqYOA
+oqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvLmHJxG7E-
+2F8F1a-2BV48goSPFJV515kvSgXvr-2BuaS3xHihkKlZYZGI8iD-2Bgz-2B0l8L7-2FkwZPG
+idpYNtG7nCQ9oO5vL0NYmlk3vT6irF0DjU9IGPEfvNIRg-2FzfkcXNlMZHlqOJ3PlP37fTae
+qL3QjpndyiTbXZH2TDcAX8RUVWkbjmzns-2FzLOn-2BwmD5hwkMgb5h3AFaBsfGfIwFc8ZUj
+1pt5DSqulPkSLSb-2FvGH-2FK-2FLbam09TyWaTg2t-2BR8Oa1jAZO6-2Filx6MhhJcwvo-2
+B0JX4n7GoLjahXdhaX9Q9qcO05NInpq3bg2GLWosmlbxDxCwn2m0Q-3D-3D>  
+© 2013 Plex, Inc. All rights reserved 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0M-2BPUdjUGH4CvGDVULiUxqJ_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqiiGRry26Ba5yMZpzHr
+wxy3rf8JC5EoqAAeeRQ0TQnnsY3cV7Bnb0ejPOPMw18B4ns3Kussq13FPd0cJCMSNoy7nILB
+RD2QkOEutfq4IfwXeOhqHzSGLtoII-2FbP9x4AfuINYix8C9k3bXbjGE-2FvDjr0gCvSCiVf
+20m-2BEe4L-2FjRByBIDZjOpOjBRDoAWogoN-2ByzGAxt7Lwt6Go8Zj9gRBxQAuPpwyxPNYI
+q8Hc2pIjXrw6TjV3zxWFHA-2BcfFE1GW9l-2FPMj5pbPBTY1gNlJ-2FIjIqDu2ZOIh2vArSn
+fZoUZ3o8t2eYzvqF8QpvWU67oXGtdg-3D-3D>
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4q394k6-2FbKd
+yvMUgpCrC2VhVJojV69aGhvhE4aUYHPfb_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTlTllA-2F4hUJLhXCklFMm
+-2BKtKgjNihk3io-2Bj-2FfLco2cJrKFDZau3gr8TkPcTHzgeqvM2RkcA5IzIMokInKV75bm
+ZJgBZbftQ9HOWON8f6-2FOBc7vHJZGBzJDc3dvQsxbT1LnkVDb7Gzobua31KjBha0gkRZ3wk
+bqRNCbEle1xE812KIseRn570epWt62AvMSfejbdWgiMUos9YZYEIjELPSqj6Ynt63bH8iOyH
+93fXs0WXQv2kU3SU8IAhKFqaqn9Yuz4j4pnsHkICSDl4LhdRaOzkLMFvQ6ctNrzhb-2BbSXc
+Llrbz-2BUqU4EvbhEiNzMbFqAQ-3D-3D>
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbajMBgXmEUesWeQnVKp00gxIUa3a2fbF6M35Ocf-2BwyQNGUwvKHuhR2nU2kikWpHKss4
+-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4R
+kdB0MdOmySUcSIuV8HjuTrJBRfCsI0Ned2zzh-2FhhbeZ7tW2fgvPNlMNJ-2BmabG817H4ch
+hIq-2Bk6jbgCo2TeJC7wqhCD4YiYBddL9rD-2F7-2FBgTUw2Y0ofXPrxy9Y5s2rAPcEcfvpc
+h4PVFYX9ZplDF0Av18V6aeISubject: Plex Update: Introducing Cloud Sync
+Body: Plex News - October 2013 
+Your source for the latest news in the Plexverse! 
+Trouble seeing something? view it online
+<http://email.plexapp.com/wf/click?upn=r919yovET0liWEiak5Jqikj9SL7XKBVAw
+YCcS9D8-2FWgAVVHz7dp-2But6IH3F8D-2FNBfKIxEy1cGmOwrxsOku6bzMuhaCUyhkb30D9
+10mPBrX1Vmq0izCDzhVpjxm6nm6NBrsBBkWv7Ad3xs4bsxXdY9FUJ5QAz3l3oO02swX5cPsF
+p17dNkEXuB0AJdnmc8md6iC-2BjBfG8XtX0j-2FjC2YG7IDMb-2BjMhtNcQXUVvMsuzevbSp
+Mftx9n3kSJ1ERh9i07OjZIGKoJJEfDkJTCAODcyBf-2FcgljlYCgb0g9r-2FX7jiIM-3D_rk
+wuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0Md
+OmySUcSIuV8HjuTp3iEsZl8Aw1YQD6N7nxKe1j9YmD4n7m0jQiqba1bzUj5dlb7dl-2BfWHJ
+vseYDZ1hKW73yPFeOMoTEJS4EzdCsukECZi992wYui-2FFaYg2nV7YsciqN5WPa-2BUl7dLB
+En5tOMrQd-2BWjTi6PrwzDkhkIBy-2FCnkb3-2F4lv3CmJTGkD2Wp1M6LcOCmF4eSOnDJ3pb
+T-2FohDELYY43nOovJljR-2BHG5P8lT-2FQwYzgpaH0Mt3Jap-2BtxrrGpCSxWx0nOoozpmT
+0fpleiWeepnRsgkF-2B-2Febv-2FRv3Sx2o2iOW3WrUBXIfyIp7TBxPfbnMKq3nJa8Aifr3o
+fw-3D-3D>  
+ 	 
+ 	 
+Plex, Inc. 
+ 
+<http://email.plexapp.com/wf/click?upn=KSq-2Fh2G1t3MxflcaP4SZY3TuS98duXm
+2hk81ZxFNOb9vRH1ZBOn1QPJIw0ox-2F3Gk_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTq2Eq2hBBoe3AtldRoT6
+hq3XQUteC3vm32tNrzYnvqi5PK-2FRT-2FVRJoKIVv3cOwjBWa4hUpgfbaRcRcD-2BLik3gT
+LrSMEnhUivQYKFxcWHD1TrdB1AZmZIhhzcY5d4uWQI-2FUdNqUI2ehov1dnMXQ9so9OC7xCE
+hWRlkBYACmWulpd-2FpkZYkvGFlm7opNCc-2Bzkd46Erxz96F2aqqytB7tk0H9JECZpsNudc
+Gdk10wqzVbhNTAlT2SXs6mHge9Dh0JcHBcNISAYQW33vnmTw0KdmEdQrn83tX2UEBiZdZkjC
+bKJc2W-2FvV86HKSWw52fCiMWOMA-3D-3D>
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4q394k6-2FbKd
+yvMUgpCrC2VhVJojV69aGhvhE4aUYHPfb_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuThcmmEPqmy8g0IwnJ2geix
+nWIp9YZQbSO6pedvvEw4zC7OTtPvpFy6z6TY4Non-2F6yLZXN-2FDC2ipQQpPFHer3v-2BKp
+HhGNAaUlHPHD4G9kH1ujF2Jxk6s5GZSVNNyfkIMBIfOoY1d5pInESGwJiv-2FMKFmZuNlFuO
+btgauqgTtVFQYM94iy43qeUMks1resgF7ofAAdF8br-2Fw7yyaMnKZUJULmiZqxWHvm1Q8dy
+QiaTGN2MORX4HAm2ZrBeLptgKlaZZIXzk-2BVtyLzMSW5HJJBxeGwaU3LymlDwUMFe3P-2FX
+vRhGAC2pDkca-2F-2FG6tf-2BJIWsqNg-3D-3D>
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbahaEvFWWFfW83UlGId2pSDS5URHpcMnqPxMDPvSUFRqs224YVx4WAowRx8EX737Wgo-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTln1N7ljqQr0uByvJ-2BOozXuTV1K77yp6Ggyb9FNccFBfIJJPeOR3
+5YCmnt2u2eh-2B-2ByUrEL9SN9p4w4TeuW9ofiqAk9xC11PRG7qrQ4UAHrv-2FVe0t8-2BAF
+5MYyDum-2FesscWAvlzJsJN-2FgXYgowS2mNMCUF8zwDoVYfJXMXQZDh1czvBTAbOdqMiuJQ
+zdLowUfukGUp4CQWui0BB7zZYTEMllsZN20geG0w6GxUPZ-2Fx4takY1QXzDKKRMQ4jNUDPW
+4uz5msHZZlBojWmbmAJqGr-2F0emcjAPSHtoEYmqINdqIEnpCfqnzHOYR4jYCoL9pnYXvA-3
+D-3D>  
+Newsletter October 2013 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbag13GM4odi-2BhyP1lxN4Bo1tkDgm-2F2SFQwsYB5seEFAcD7UmMSm1dtFPJeklv9Yi-
+2BWo-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2B
+MA4RkdB0MdOmySUcSIuV8HjuTkeya9oT9k0mTvYs6H7dyK4T6WLO8K9fUy6QQoJaxBDfZIMj
+-2Fd7ASrvW7WQbDFQA-2Fm8neYEtFid9NREIih9NRdBFpRdlc-2Fna12beSZ-2FU7hnNPLjv
+gFLYAp2qHGzK6UB-2FnpgiNUitsdtdJi82IUGX3DNIJgn13MdE92snM3TNS9POyD5BZI87zp
+v5E6p3YCBvcXw5m-2FCcwvZUa3Q6jGLrKnMKcr-2FjbN83Ph6Cjq7Z5FaOaTPDiOTn6ncXoH
+NTSHNd7QtysS0OW47yJfcxWnC9pc2fc6xqQ6YFC-2F55amnvIJYRMKNmVQAW2b-2FPx-2B2D
+-2FlKlfQ-3D-3D> 	 
+ 	 Enhancements everywhere 
+ 	 
+
+We're always striving to improve your Plex experience, and you've told
+us you want to keep up to date. We're glad you did. We've been working
+on a number of enhancements and launching new features we know you'll
+love. Plus we've added some great tips in this newsletter to help you
+get the most out of Plex.
+
+ 	 
+ 	 What we've been doing 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFger-2FBpbfHHFV-2FRtuYBu4
+3DwHmy8pMe-2FHsybxSR-2B5G61SpkW7mmfakUmuawHczkt1g-3D-3D_rkwuK8TjtAUrSFYu
+N-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8Hju
+Tv6Qo1-2B35VEyIJUJxGD4gyahgtVjRUYzUEJ-2Fo4Uvsh0zfOXsWzmFUlJFNuknQ66l2DFQ
+UU3kLEqS9e-2F-2BPuqsmg0CF3sRBau-2BH1Djjj9tb7Gq-2BSpOkcV1TkdGMc0bZDOGW72u
+ygDM-2FtdhetZFzAtY2kVJP-2BRUoaEKlRXlZYWFtVhAjwcs8U3zXmmYGTGcnBeMDmRuCrr1
+eWgaE2LFDMo5EqlB3GvMxjupxBSXbLfY3ZrdoDhqpHAbuNyQWqdwM7gxyUlek0EjiRqN9klj
+GbzaW-2F7k3GX3bSC1JJGKHJbWsxZ7aA16lxNWPkmVs-2FpWNXYVYA-3D-3D>
+Introducing Cloud Sync (beta)
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFj9qlomF3YdXJkBAivph4ndzY
+1de9cbwEFBgtK5fYLqQkDH2MQBdmLRoqYDZbCxL-2Fg-3D-3D_rkwuK8TjtAUrSFYuN-2FWc
+FqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTp-2FU
+HFNUcw0eM-2BObi2InW-2ByTVgLjgK19GvM3RYSq5OZ1Df8cKTQ04LJM9GTtBhTS0U581kIK
+54wK1LsiCRHepLWhQpckUd9bfPxWn2Y1z3YKNyOXfpaAmyniIRrYy2QeNuNx89LhWE3t-2BP
+JFWioy-2BpRAm0b6-2BGvjUL0aWdQdnHsc2T0BCza6HPknm0Qd4KJhC-2F0b0Z-2BKXdMtFd
+Q8Ta8DYOUQUpPRDIDhgAcWyezBWeE99Es82OEwxRSDOwTZu3oEbn4d0kmEUUbfLwyVa-2Ft-
+2B-2B3MCAsRl9KzxUmAXtHZ21lplJqtNn-2F-2BZ70SSzi-2FlhO20Jw-3D-3D>  
+
+We know that streaming bandwidth and storage limitations can be
+frustrating when sharing and enjoying your media, and we'd like to help.
+Today, we're excited to launch Cloud Sync, which lets you sync your
+media to places like DropBox
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjnxB6ZkEXZ1Hs5
+JZb07CQ9vA-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTrJBETFrjPBKG5wWNHzNQXbRA-2F-2FKUN8-2BdrBy
+ctkPnfhM4gJC3ib5ZgxGtS-2FAIjIQGmmajq1fBuRyquSCGG8unMCGbQkrJiVsz1N5a-2Bfk
+ygg9M-2BgI2lYcd2CHcUPyfXnLv5RZwCKIBHLJsBtLIeqet5y1gS-2FLOHRnWJgNiPbfDgXK
+xkatcLwod2h0ppmzOaGPsfHnCeCmm62BPz3SO3kOwYngEqeNIoBC7neLMNi0gE8XPwYsQzUi
+oLFaZnNShpNiaEJNd5f9TLWCa6dhZw3g4EOwnxNMcwrIis3ocjcMQxr3Vp30n9vPkAkFqsl3
+O7zJkw-3D-3D> , Google Drive
+<http://email.plexapp.com/wf/click?upn=Z3iYpvyb2hAZKgvCAvedmQK2FNEbaIn6U
+k4XWRj7f50-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTs3e0palyDkf1VmhJKrhBnTNN4CgkrQ7hy-2FM8F1d
+iHCgKvw6fhAsFDG5ZT4OsQA9X0jgi8ber39useCFipc5mO9LH9QT-2BpEbCSSV3v7Yy3mtyp
+OBO61ZSfzu-2FcnKVkHOjVb02Unryz-2Fr-2Bm0r-2FfYZYRlEvfS1-2BHAhzyFVS6Q7TsNL
+pSrcxQ7P6aP2L1Ox-2Fx5LUPwhCQPX18RbPUK8MfGb-2Bc4cSnu1v6NChGmasIZfUlDPAN7i
+P1LCEUs-2FvUn8fT5BgrEef5wXBbJ-2BxlwAlGTFnpKhYlI-2B2TZh-2FfXZnwkovK2w4DMG
+7NHjHG8aJMQ5n9hrmA-3D-3D>  and Box
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3LjI1bOB6mJ6
+N5GtZWNPSQ-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aG
+CDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkdRDKVD-2F5yUjb9olfOHKWvJ6ebr5U4iIPmT3vod
+mm6ik-2F6Ab2rWhEwP0KatKFcf7V1Pfj939Ito5CZrN6MRVFUxAdaq3E-2BGfCxj8Belee0j
+FB7iWBnNtBqJwVf-2FG-2BMXGLbxaH9abWAzg2aLnxRxpfsGGgwVI-2BZjn0xsGxZ-2BQuMa
+USWh3arywKJ1bT2vcDf4pX2qGbf55ZS0V9V0E3fMPlJx0A4jN1zrUVcT1CIcLztmA9PI-2FE
+edHhhe-2F5MgIIQQsYN2MxaKleKOciHw50KhaKP-2BT1MNXknbcyqysRupA8448bJMFVkym2
+DlUrhldWoU4w-3D-3D> . Your media is automatically optimized for
+streaming and uploaded along with the rich metadata you know and love.
+It's like having a media server that's always on, even when your
+computer at home is turned off. Cloud Sync is available to Plex Pass
+subscribers.
+
+You can learn more here
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFkl0ee9PeOS1w-2FYVJ0Uo0mc
+p-2BP-2BGSbhMzGrPchDykjh-2BOeHkie7jjFNen91ZT7Zohg-3D-3D_rkwuK8TjtAUrSFYu
+N-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8Hju
+TjGIElEf4HisT4FPLBwWff-2B-2BVBN1FnxbcJoe69XMuiRaHu9A8vVcNrKWa9t2ojrV7ATi
+RUzQkKv9hA7tGj3PdcKePiDcn6zuZlaT0JJvTWJauv3hff-2FU9iLmiT0Z2C7634dUib8OQP
+9lMsn6PT1CQvUXbymWHU7i23n5mPQkZ9WRvftU8ERNmrIFKgx70-2BtWtzcwkH8SD-2B9w18
+TLNEtoUq0CqF73fWLeQcTBd-2FMTL3B5XRekiUipmDHKj3llQnHitEsJSDTBJQIESLfHdpoC
+PM8xxY03iUoXA90cnshoKHsKNYUWQuCi0ivP-2BK-2BBrhP-2Blw-3D-3D> .
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFrxaCO7X79hdc7H7pdYkcOYmJ
+e2CSAHZ3GY6K3zL3GsXKY9vUPgBDLJRnMivVKzBOg-3D-3D_rkwuK8TjtAUrSFYuN-2FWcFq
+YOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuToj7RGUu
+XlYHo7uT1-2B9zz7CAViOOdZt4WWOT9gTDOV9UDOZcGe46SEcu-2BDfwSlFm9MctqMmgXgZE
+WTwPyj0wvH5WufUeUTsJQg4TqRhi8WAc9ycODKjZfLY6FuaN6tFfhJ0H81yHSo7Xs5G-2FO-
+2BV570obMYiCL8m3AyLBpRR5Tf0O8wSeQGdSllNbWc4sUpeKEeJmf1lzZkb97ezvNYzElS2m
+weMeFtDkdu3NyWkJm5EFGwSEI4cs6hYoaq1TJSwaAYBThYHKzuEusrFYWpsaQP-2FU5ls-2F
+woLKn7G1zqIPO8fKZTlf8t183Ujt2wMIAD2sqQ-3D-3D> 	 
+Both myPlex and Plex Media Server get a boost
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOYyP1wZU6DPCRc577WK6un6c5j6s7GahFURzC219eeIZTCuOlRifmQsQdNkRG0
+3ZqPqksAIftRo53491XGZvoRFlje-2F7IJxSjVAMt6CRKSTFrXCF09K64iMSJ-2BK7YqETl5
+YQCFJrMPHR2PSU9y9Pl-2B8GSWsmlKHNAkmExVrx0jQRw-3D-3D_rkwuK8TjtAUrSFYuN-2F
+WcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTlKx
+yW-2BLHsCDk8BhW0Dx52x4ZGpC1gBlGBtPZByo9tZm7LloYv-2Fb9US79Ig2TFHd62HIsEW3
+tH-2BTLZvepHS1IoIiW9gweyEpqAs6q2SutaY06w7gt3xEKnjDZZdzbgnLhwYOveUtzflarA
+UZkj4leRggNoWQ4BWpbr0LOBF-2FC30Rba-2Fyx-2FvqviJEzrY1wbXPpxTWjX9qOOLd3CZq
+cTC0jPC-2Ff6m2eAHimQz1NSFchvIcJXfhOz7RldYiX1e4D-2B4skfAgG7itfGCJAfCucg2Z
+mkaMZ4PZRlN-2Bwkknt-2Bg51txOBkVWMUi89NFWJxRjN0oVUg-3D-3D>  
+
+We've made your queue and recommendations load up to 10 times faster.
+We've also greatly sped up scanning media into your library. The quicker
+it gets into your library, the quicker you can enjoy it across all your
+Plex apps, right? Movies, TV, music and photos all scan at least three
+times faster, and scanning has also been made more reliable. So, if it
+feels like someone pressed turbo on your Plex, that's because we did.
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbITr2PPjT6-2F5nc4d0hAnqFVoe7oTj0F4z-2B5PD56aKnzadSKZ1y2y4u8KXTMs2E
+OXf0-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2B
+MA4RkdB0MdOmySUcSIuV8HjuToRcUTBChJMdKxWwRvIJiclu639POlFtGwdN-2BXj9YaYufY
+hk-2FeZMVmUPCb077gRPl4mS9LmJOY34mijMD0ym1ynVBzR2XDCqaQSsAmlIdVGL15hN6F-2
+BfjF8CaE84W-2B-2BvQ8I9GcUEL-2BCDukXXmi2x-2BughhU-2FXC1KKKEZYrXgL3GsRPE7o
+Yd9jjlXP5-2B1iBhH1BQt0JXzrFKrsTdzCM4aMKXe3w9CDye1ZMuLp4wMK8Up3mylejs1TXc
+UuAtjICdZmzQ7GkdDEOq-2BfJ2RNFYrl2bGLNMW9-2FYmCVyVmKHWdntHSf4FasR3sqVR7CG
+E0-2Bne59Q-3D-3D> 	  	 
+The new bookmarklet: Save, Recommend, Fling!
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbIKPClRuGSZxr2ox6sgqrSFq-2FuORro1FMqoSSzWz9N9vIp-2Fo-2FIOajuKfqXqD
+sN1c4s-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-
+2BMA4RkdB0MdOmySUcSIuV8HjuTt-2FOh1z10gokE5K3l9H7V5vNR-2Bi7Qv866FvBaGwLlO
+I7b2jwQySuQA-2F13B-2Fm8LaS-2BavTgnWbzauDGQkuvnc6G93ZZuitfnZaTLh7Kr1THkrk
+ANBd-2Bdn7hnUZNRSRwXI-2Bg3I-2FvX4LLumONgW1KITM9pQkgItEo4zYA9VaYl8KbWRg9v
+J2hY-2B3IVYBeJSdeGjPNXnQS6RoUpSpUIZqTYiOTot44nLvMjx1A3P0EEwiJCm7RynLX8Hz
+zzrLqlKcX7keOFBhHBOH0Hf2ElO2RmQpBsWh56f8WU1hkmmEQQRNzk1g0GBeJbR5jxGXS9gh
+H7XeYA-3D-3D>  
+
+The Plex bookmarklet
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvhwCVLVShKEPoD
+Dl-2BYEYHvOY5O3uWZ38JOS1bNSd8St-2BZOv9oBtZj4bT9xDQ3tYUVCsbCPAZxlwfSYDWUY
+FVRLL8I9soJLuaYcYDgE9kJnhX-2Fi-2BrZ-2FSVLDnQHWJJQiFsyIU64FQbg-2B8-2FScWm
+qlX0eKbKHZOJV776VLXzP3l8mRCKSlPZPOjopR3S3WsZR21yKxynQGQ4qdWBzHXLxH7D-2By
+Bc-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTgighKwLGKnNoo7sr66MssBbdGkzCcOoM9xbTeSbCdAPUXtzu9
+kiIWFffhgjxr2KSqg-2BubYTg3Qj-2FZSwoODBkdlO81wLVbO3WaF7MF5Idcg9sOcifvvLvY
+1iJpI8wcGI8SGm4VZ1ByS9JUDVvQH6skBb2dooGqkPHX-2F-2BRq-2FHgF4g1N5WRFCq3ZL-
+2FwZSLxbDGragX8cEPRYsRX5FITuza21Yx3nfpnBf6fA3jmuEVI-2B39qAvYxArg0r-2F1O0
+tI8-2Ba4dKdHLiEbEGhJtoeaKkqkd2pdY6m2Yg1vsho-2FdiM5kadf2hzDMDyeW-2FyhuFMK
+5D9VYA-3D-3D>  lets you save videos from your favorite online sites to
+queue up for later viewing on Plex. We've made huge improvements
+including a streamlined look and feel and an easier way to recommend
+videos to friends. Now you can also find a video you like on your laptop
+and watch instantly on your Plex-connected TV. 
+
+Simply add the "Plex It" button to your browser
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEre1R8swioQ
+wgbBzhGFJmn9vx7Wh7TEe6LGdttX8qModQ6dhvQ3pe-2BO-2BpITJMz2trIO-2BUuFVtF9jq
+pYhpzdoMoYlPZo6vXYOJlOTSPWmBFxHmM3BYsFcZszCXppPBpkC5-2BkT2cwSksMtvgldQiC
+eH1M3EFKdUtdSCuZ5xjK9rG4Y_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAow
+S465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTt-2BhInR-2BrYVIeogtetQh7QRRAF
+mKNAxiamO47d61dRoiRjZjhtDqafJYyW5Bp-2FSg62EbtPvrlWsa7L9ns4TmT-2FNwNyjOLZ
+7woquDWQW-2FAv67-2FK7dzGO6Cv0KxzzSFUnjKg4pc7hxGNUcL18nuQJLrTpACQWue5r3cV
+en-2FpC9BTfW5kTCOkqovEvqsBMSp7NvwxJCH4XO98WRkfC-2B2jO6cRwWkkEPBAoxooIuka
+J9oQ9xCKrmKuq1XD54AjPObfK2XxxCQJpjIb1ezUMIjzFpDsB50h-2BPrNbKelEE7TfAyduL
+4EjDbCt68hJwNWfEjWqpPg-3D-3D>  and start flinging.
+
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmWFCd7uYPUD5Sy9aNJB3WBAgqt80kaVoo-2BQE1LryUFiJdJxCPK8ihEpUCT
+ohofg-2B0nZFCR2Q2MlvvFxsM9q1DdSJV6iRKpIBpRqLjv3uFmphmcY7IxptseB-2Bytbs2G
+gMNVu-2FbNq7lVC82VMXXGRCEwj_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tA
+owS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTsKasWbXFU6iNNdWYnFI05JaARhc
+hSH5AuynBwL3phsEhlZn4l8jMhS8-2BdrNU11eDzU4Kop-2Fri-2FCJJx25EXCUi7fRkg5DI
+ynQ42G46A4jhi3STivXQOuIhZkuijjkmxnsALRZ9Ij9ptTpzHLGJ-2FL3z6-2BfthjKsz-2F
+sL3mSLs21RshzcpLJsE-2Bun6VkBrgaJl1sRD4G4dXTIOH-2FAejlnGUpwhLBhYBkvmBS7oF
+UA4uxeQGokgTIp9Kph-2B8PNVLJ4an8ZHOAzLYdRBkzyvz8eLuUUCFKqwsxT8il9RzFpYYQ8
+4vhFWiYIFb-2B6EyDQkIlG6LhA-3D-3D> 	 
+Plex Pass
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmWFCd7uYPUD5Sy9aNJB3WBAgqt80kaVoo-2BQE1LryUFiJdJxCPK8ihEpUCT
+ohofg-2B0nZFCR2Q2MlvvFxsM9q1DdSXMO7iUAzDAW3iN53a4zk89h5RBArncnCHMO9EA2IF
+XN7n8zqK8X9Nm1csfxS8Bd4_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS4
+65oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqaVjdzQ6ZeW9ZEXblmHMZTAev4rfvjK
+Usi6fVB0ESb9nxc5Hv53nmtpohmm7zW-2Ba4qBCO3WAxKewkBfDD9rtF-2FzS7Gc5BQLH0R9
+y3I-2FAkz49OXZnz68o7n-2BbqnRUI7eY8UMzG46pKoPytw-2Blh3RMG-2F-2BvNK4zAWGzo
+3vLH7L2Q2FzUL5ByExve0FwVrZ6dhVYP8IfxyFm1V8yv-2BzYmhQg8ptSUV3N2Za80jHbDv7
+jPSg3zu65beiOCM5mnwVt5BlVeK7RFePbTNvHLRuyyD-2FN-2FQvsZVqY89ulQtZHzUi6ZUw
+N4xkRwkwg7ouc5KnfjoCpg-3D-3D>  
+
+A Plex Pass subscription
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4pCW1GSpS3nrs9XxxsTxHvSBY5bhmiD9-2FiMqEIRbZjDXv
+ILmmJ6HNUGto5AZuYD9A4_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkUs9PHa4xUDxjemRt53iA2spTeUVlZvNG
+JltHxMI4vzP-2B-2BSVEvJ0xSFW7c25ORqypdyrOhWZKH7d9kAKw1ffv998r546dCmAuR7-2
+Fsli2Y3zshoA8bSfbYImTQp-2FWdpL88mZTvSi-2B2-2B2GM9JzFrIiNJnv0iw7Ygws9-2FI
+zsRdsBcYpqBoNh0SXvhP86RX1lEB7uQ5zL3Qt3uqIwlAdVKxUAwQ4JNIvDeREGUbw7Q3cw-2
+FNQOjmdZWePbN4rmLz9ZAr8f-2F0Oj1ImxybfDbQPZCdxbyk9-2B-2FS3pz9BSQk45HPP5MZ
+Yazlq5fnD8i2f-2BaJUwNU5Q-3D-3D>  gets you more of the good stuff and
+fuels our development. You can enjoy access to new features like Cloud
+Sync along with upgrades to existing ones like Plex Home Theater.
+
+Learn more and get your Plex Pass here.
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4p9v1BmcVnUviA98A2aIuDODgR8EMkEOPHcT5jivfVQaY2r
+f2FMdm7ivFJz-2FL8HMp0_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTmALZX9xfdVMN-2FmcjV-2FzNHqrNV7APQ
+AVs7GjqvhU7fL60-2BpBLb7oayxdUOOXAqqhZQB-2FKHx0NYa09Jck0eJG5TWFJSakF4D3Yc
+KAP4bT-2FMCQROWVy-2Fdxme6576XAZ4VX3m9J4DgGWPDQrAKj0n9AeKhA91IwCTHRvTHRPx
+sjVLG2nW6-2BDKPXFnm-2B91g-2Br4rxgMzCw-2FRTMwfpZm78-2BXom2uO8Ksg06IaB2V0I
+HVScRPDJ-2FLabqxOpZVhzsoIrAKO0PKoCAR7pXCaogUnEbU-2Fl8-2FP-2FaGfTgLhz-2FL
+c604WvvYBchlTkBsHDSf27qIL5cKOKCw-3D-3D> 
+
+ 	 
+ 	 Get the most out of Plex 
+ 	 
+Sync with your favorite shows 
+
+Plex Sync lets you save your media on your iOS and Android devices. If
+you're following a TV series, there's an easy way to make sure you
+always have the next episodes ready for watching. Simply sync each TV
+show, select the "unwatched" option, and pick the number of episodes
+you'd like to have available offline. That way, no matter where you're
+watching the show, Plex will keep you entertained. Plex Sync is another
+great reason to sign up for Plex Pass
+<http://email.plexapp.com/wf/click?upn=ejCSBDxrPk-2FIIrTMLiTJEsItp8U-2BU
+kIgJ68ZAnscYmUX8aWH7bz5pa6AEmtJNuGervvUGlpNzsvj9Ez3hnlWobnzD8NQOmq95cP7m
+c9x8ZWVhx3aZdZXnSN1SLmDOS4pUe01IQ4PFiH11BDba5ZqRqOcsQn-2BcjNh1R1a7dS5YUy
+nbKjH3FXE0V0E0uXTrBLv_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465
+oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTmHo4ZZYvIHvI0sNf6VTdWwCXZOQYsyZr-
+2Bs-2ByvP13EjNg4jMCNsSPb-2BF2XWQvUZ8k9AgJNgoo-2BMf0mNvTh2KOgFc5iw4MFi8IM
+Z7gC7c7o0yuix4S8yQNj3GQkVYKzHzle3osc3C9f-2B-2F0WyEM-2FRptQWL4XwUOWDq0Pqr
+WVbVN6KN0usZFDhGWNNBY8yCKUHLU89vIdllH65ispL71l9OBHk02qqXiGsNZMM7u9PM-2Fj
+FdusBXnUvPmk4COzNQ7xWzSKaJGGCw9CfAyDXlD8fbI3KrUm4VMm5UrsG-2BwGAWBmWClhQj
+I4XAdeFQsgxRe-2FaF8g-3D-3D> .
+
+Use your phone as a server at your friend's house 
+
+Did you know you can play your synced content (if you have a Plex Pass)
+and view content from your iOS photo albums (even if you don't have a
+Plex Pass) on any other Plex app? It's true! You can go over to a
+friend's house, and your iOS or Android device will show up as a Plex
+server, so you can browse and play synced content on their Roku, Google
+TV, Plex for Home Theater, Plex for Android or even another iOS device.
+
+Adjusting video streaming quality 
+
+When streaming to your mobile devices over WiFi or cellular, the amount
+of bandwidth varies widely. Even as you walk around your house, the
+signal level varies, which can affect the speed of data to your device.
+If your video is pausing or buffering, it's probably time to lower the
+quality. On Android you can do this right in the player, simply tap the
+settings icon and adjust the quality. On other Plex apps there are
+quality settings in the preferences area you can adjust.
+
+ 	 
+ 	 What people are saying about us 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4ghQsvLZnS6RB
+Ec-2F5YEjlNdbMNzspGHJVavrUrNjEb6q_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTrO8eNX1pB-2FK9pQz7Xp0
+EGbSneAalLxC2JyegWfvhzwaZFq-2Ba54ecAu8uNUPkTQgQwAO0tQj1mdSSTsWmSDKV6P9EJ
+FIwQpAE0f45wYqTrDYGnMuIbjY-2Br2JNKDSN4fiQWcWqP0iGPmSdowpEwkUMC1sRmhE5cB6
+ljHnOm2S-2F40uyqyCsLeit3uVCI1roTKugn5BNIKy0Sr0UjzAVqxvb41LnbdW-2BXul8aeN
+eRZ2cLjQ04ITcoZyxJdS0buo4AQ2V8lIT4SJ-2B6f29ow09a4kKaJbpZ-2FpOueVb29nKAOP
+HG8vWunoRZY5m9MdJS9fw9Ktjg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Jon Olsen@burnunit
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4ghQsvLZnS6RB
+Ec-2F5YEjlNdbMNzspGHJVavrUrNjEb6q_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvDkd4UD7ZmHKsrZxKxBa6
+3kA6leLjil9waG98h3DfM4rNRseBzds1T0958jgfxYu7-2FLln4k58PYRgfX-2FdMVy5dMKD
+kuw9OEAG7pIKUXcUvDq0vlVxLNQ-2BU7uJsYG8EavtYXztgZ6WbeFoAx3bHyYQSoUBjaRw0H
+nkrcEiZng4bMU0Rk7tS6DLvViTylYT14680nJLZxAIAph4soYTm-2Brbqc91nkDnMyQytmOP
+egGxPA8fapisl3H2i9-2FR4joDFymUEgKKYxHFMxGaiiSKBKu5U6cALRDhLf73M-2Fs2NX7h
+TucANJ0stEWYSrZHrfmIvnaw-3D-3D>  
+"I've just liberated my media across time and space with Plex Media
+Server. I am become SHIVA THE SHATTERER OF WORLDS!" 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4l9zGR34dQ1id
+XpwwgIDT-2F0wJIssACw7Cse-2BbsLUecMH_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvI1MwZfjQpkkXKG23i0
+lf0FJlFrexEpqCOBJQYKxW4oX8xjHlxDBOmXDQ1dcZQLiPdDECBYV7lAU6v33lM5Mv6dutg7
+06IebUbi8pxce4s0-2FJ57IbUlPOO0cNiim7eE4kHsgAFipEj6KtAT6Zj1rM24qYGyyqOUwx
+UlUzt-2FBCdCnhKrtFS4-2FEoblxZM-2BqRZSABEPq96qujbWX-2B-2BJzIACsKme8uLmJoS
+tbq8ywkypUbrF1Pl6nUU6VXcPWEYRjU1hD-2FfS7fenU-2F3QYgvnKB4d0aIGPxW8bOcjvq7
+TwcmPkM9tScKWqeshsNOIr-2BHXLmcGg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Tom@tomlagona
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4l9zGR34dQ1id
+XpwwgIDT-2F0wJIssACw7Cse-2BbsLUecMH_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTs0olDdybE8yBWf4OiAY
+6pOU1iLw6xwbtthmsTGD8RecT3uhh-2BDSADYUJQK9BI8DS-2Bys944R02iiBQajEh0f-2Bd
+FlJVQLs6NMRuSLx3NVcKnwcZKLYhuvMtGnwxcJawNDRC8LVZF9eKMGNigR33dowCkk-2Bz83
+J2yuqAHgWMFJX2PyOb7HUFMEt7GLA4v5As01G3RbELtOdq0uoROThCmbOvVwzv6m821uxc3X
+Q1EgBQzjfjNT6FH8my5qymkTOEnOWXUJSLAQw0p-2BP6kwIrq9NcH4G04QCNUq6N2wBllpip
+gvC-2F0uSjsuyFZzNDoRnSGEgw-3D-3D>  
+"This is getting better and better! I love the Android app and being
+able to share media! Can't believe i just learned about this." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4vJgCxUjZVtKs
+e8vmlHdFclSDkcPFZLHsGLuTw9LvHVX_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc8
+77tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTnTVKr-2BYg-2BLEDxB9qKpZ
+Tqks5i9qrxcY1-2BiLh1OxXxgUAO2hhzT8cf93xd5NyMuO0lRW145nurs0C6CM3zhb5ZoMjp
+90zG-2BRFCClegcgFv2141kIzcX09Ti6f6PZS24vJW8fYJbyE5uYu0trPzLCxGPDKI5vnpr1
+4-2BEyxINLjSVpYMqOT54mABOsk3pGxaL2QgWbFhg9VXFu8BJ7InBnoJ6itQxNbO3kEHjmgI
+OI8TT0N-2FuN-2BXc2tpbOS-2FLtIJ1j6S6b6QIi78kHaxJLJGs-2B2XfsfkS1IlAj3OzVjj
+FswGzvlPggJRsSydzmTvGEuWK9TA-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Patrick M@whak
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4vJgCxUjZVtKs
+e8vmlHdFclSDkcPFZLHsGLuTw9LvHVX_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc8
+77tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTjVXIIiTey1uKz1I9yIGoGVG
+hVqK1A5LTBs4CUNeWjuybs-2BS9Krj-2FgJIbmwP2tMdxesq5G-2FjXGzHczxtDQsc5sFx54
+7jEORrUflbBzgMqb1XXjPnCNyr1gWGvR78-2BWNstam7WZscXNoQzgJE24kKXH5xMH3ZgMKK
+o-2FgGOyZWirT9OOD6eSVqWubCYPTvSU1JVaDPoGj7iuk2Ve7BLNMi33FKGlOL5trfqETMgx
+3MEHKQ3b1Jyn-2BH33SpLIossWIBBtnTPW244Rf4T7Hxj1WIBZaDu1tPP2g2Xx6uHLOF9Uuz
+ZHCCMVnBaXUUdJTFsfB7dA-3D-3D>  
+"Whoa. Just discovered Plex. I think it's time to build that home
+theatre streaming media server. Cause winter's almost here, y'all." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4jao-2BZkIhp8
+1vQirKlaXPSa3BzaWhNbiThx4jS-2FJZ7Ds_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTupewZod8HExlrE2NMyB
+7XEzko5-2F-2FsQGHMVnu3tNzSMB-2F3Y05SPNqx168QLO1Len5-2FWKWthUqGl6EaY7tHHC
+F-2FP7yKftSHnYHIS-2FZa-2FRq-2BHBjshpzC5-2BiCgXN1028vVtKM8-2BhWX0ja-2FIMT
+L-2BVhSCyWle4SGsvJtaNHxNf8f2eIENVbMHL4UFAUHYLG2siOB2GDkhu325npD7936OE-2B
+rGuhV6PilGbZks1QHm49P3Kc6-2F4SeLLWg9B9m6HJ5LkoVvM1mUnKw3Ohbtmt6yZpl8iv-2
+B4Q4gy-2F5fnpeUv1TtZU9Ywi7N0TfJ587hUF87uIL-2Fkmg-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/f285ffa9a419c6f269743a84a677f750> Alegeek@Thealegeek
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4jao-2BZkIhp8
+1vQirKlaXPSa3BzaWhNbiThx4jS-2FJZ7Ds_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvrMbU5J4cWGQsInEPu1
+r1x44B6qhomA3E0KyRTSFyVEM3F1riPNkXx78APF-2Fk3IVwYQZa8d6YfW27J7q1-2FS9jC3
+g7sGylLJimGav6SK9wG5S7BFcsf2Jk-2BVo0QOqb5ePo0M-2FJTyFfxzI9zLaJRp-2FAjW4r
+hhLReWXo474LAz6syqT5DWmuFUOtMJ8xTTKNh5-2BTxJ-2BADTwiE9Bc32A24uYbGW79YgaX
+qTZxSXVc85W7hCoiDF5Vn5g1hVwH5g4qWYkyKMaZHGs5iC7stZPF57aSy8XONwiS33RTWUlw
+-2BqC-2B2CIDdxxkg1oZrYKAURRXehwA-3D-3D>  
+"Upgraded to 0.9.8.8, that was nice and easy :) The PlexPass is
+certainly worth the investment." 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0Pho-2BTykPh8hq6so-2Be5yJ-2Fl_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2n
+HPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTkDwW0cM3BRAbfln
+TbT6aw2mdHEGvwTDRD0RCEogGV7TAM2Wdu5mc0QJ2G3HnnjF8PdoD6csiHVtdFAWJTzPIWIJ
+a-2B-2BAOZNRJ97DPSAie5MwDb5Tn5AUKU-2Foutq-2FZA-2B-2FNIcs5hvyJGYFWN7QTGpq
+yvizBzsuFp2-2BlRtTzyhSl0CxO7lP1v3LwgjTiHtHUx3domFUFU9Cnn-2Bo5lV1OZPS-2FN
+7BB2YE3njhXgycl9mejXeDVoTcQpo4uNH2jsEnehuKajS16GJsAm5nbIQIPem16WxQWc0qnD
+QmlG7skBsxHj0pbZR-2Bc3frm1U-2BCB-2BWxokfGA-3D-3D> 	
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2081755_902a4116396d21
+7098defef3ea3f4328/a15a9512c5d6e3237b7c03548fde3f19> Adam
+Magnani@OWoboros
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0Pho-2BTykPh8hq6so-2Be5yJ-2Fl_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2n
+HPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqB1czt8OSOXUZlC
+Hum2-2B0HsQvb7e-2FehYzgP3n3-2FHTS36QlVGnwOqxoKAgc-2B-2Fj0IJzyr-2BTn94KH9
+A5fDJDFZggKYYvYVOiFEyEUBOiYLIOdWrYRSD3zoh-2FkOEpYIvf1Udr5tLFRNQsAv-2FKnl
+b0oddDvHax0zaPs12PqD6TU3X3vdeRh4VZpZerTveh8PAY3Unvr-2FXDy7ISWUlJujgseO88
+oOtPj59RB6DW6HCo-2BrfWNvKW8lkpDdRh1qR-2Bs0oYtRITLNFzA-2BzHaS0f-2B-2BnRGF
+dq6gdBucIfgmtzXcg0NqUr0-2BRuG8VTxLkDFWNRlFgA0iuQ-3D-3D>  
+"I love you guys. PLEX makes me and my very spread out family so happy.
+I can't thank you enough. I've bought my lifetime PlexPass and i can't
+wait to see what get's baked in next." 
+ 	 
+ 	 Join the conversation 
+ 	 
+
+We thrive on your feedback and what we build is driven by your input, so
+join us. Follow us on Twitter
+<http://email.plexapp.com/wf/click?upn=rJaioOyUphBD2OEoq8NcWihu7HYESXcZW
+ukc1r66lXnEexhi4pMdqs0iVc-2BT8nR9_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTv-2B7PxYkycXUXPqYyMq2
+F8dnbq7TAFx5-2FNitmmMIzqmpCtzXrppU-2BSATshSpz0sxNaAJr04u-2FHX1CbmEy-2Fyx
+dgp8LPtZyFIdC59wGZGpRMha60yU5T1EUjZvYZVcADeMi5FZ1SlvqOVW1mqFuwhxiMWYwqtz
+TX-2FG-2FEROQash707gkxxHW3AMVTjKXtv9-2FYZfICmb4heaJvbOYvGrLPcfcXS86WvabN
+Fy-2BPUUIP-2F18K0W-2FrJhsllJt7OZUQDxKaUgUYdPlV4nykMEJyKM9j6u-2FxZGOV2ACs
+mOYhOVtzlwh3Vs4T3gMWc0fr2LEf4tGQOd3A-3D-3D>  and Facebook
+<http://email.plexapp.com/wf/click?upn=KSq-2Fh2G1t3MxflcaP4SZY3TuS98duXm
+2hk81ZxFNOb9vRH1ZBOn1QPJIw0ox-2F3Gk_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTptk-2FJGqu4nLAOPwop
+xe8DmKPJM3V1VYARqfJfVJ2mE9RXAuxNiPe1SKuAYOGAGmKwXlSV-2FbIj34w9BHGxDMMgvS
+kXFMA4FrBvs5Z1E0DXftd4xchimnCsuydRnRKQnfT77YPvzeMq7d9vnqObbD-2FOAFUYG9wd
+F2Qz9XepvhCzxMa3iKVFnQFT2w5-2BoB-2FSkOkehREkyRIRmy4V5jud2msRWHz7I-2BX46H
+Yn-2B5mk5qIPYe8-2BNBNTQ65e4RrdUhZm7aZ5-2FO2nfvRI1fT5v4W09hyEiqL9UZkmhGfH
+ew8WHyAfykda9S78-2Fe0SNRZdcas9qI-2Bg-3D-3D> . Contribute to the forum
+<http://email.plexapp.com/wf/click?upn=0a4lWH0al0nxXUhbViBwHc6pd9B3TllbI
+lf84EdhmqDjAOE4mrAp6Yx6pJRlvOySG4ctvfnzaiVatKEwVFFrySnJXVx3cOJeAKAGjystQ
+-2BASgggI4UpAQ-2FyuGnV00k7wHN6X3TuWubMw3cWWuhDrDu5SmAcZ2ZgQTEFne2Bzru0-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTho17amlvPs6BNd-2BVOVzH3bgzSLA0lHW8Bs2ITESS5og48-2B9Py
+GKsbQdwDAjqNG759rihPsDs4mtwfQkqG9EPdcBG1dFsQEEZ-2FHRT-2Fo-2FPB0TWN1JhOZG
+kNIT0KfGTAx6QvXWqVerPH-2BHB7AxKEFIi6hfr0OdJoJUoqVDtkNgaYE5J4PBJSXJIwRnYg
+7mgpUC9r3nxXCKp5BuTd5p0SeAAKNNURn4KsIq-2BQyAWn37OXl6dH3nuM1TcpxcYvIlr6We
+52wrj2iS4CB122nnMaeuA01C6Y-2B1IpMEhpqtJUKiBO1kKAGcd1U-2BkcsnbR3KXIIG3A-3
+D-3D> . Read the blog
+<http://email.plexapp.com/wf/click?upn=d59e2PVaPRFYBJaYNFFvh92sepj-2FUlm
+urVlbxioyKVX2oedgt41ZOAxjXN7GOYsuw3ccG1NAHqlBALbfR8E2DCxP61cBdu4MJjISDto
+vPXIZncS2iJMWpgZ7nVT7uqWbYyYTopEdzKKl8nGuVfG56wYPbINB0srR-2FU43x11mnPM-3
+D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4Rkd
+B0MdOmySUcSIuV8HjuTpzUdJBVD0Wnse3UwUIEGFTzBY8Tcjjb1o5CBumZCPSjvh-2BlztHJ
+-2Fas9iqEx37exOmzRZ-2BfdWhq8G5WLCg9UHsKeSqc9CfxNA-2BhZoB4pBltyxkgziExhIQ
+gqtvtAb6lvZe-2FoyUBp7uVmnvPzLrF-2F8vIsHJ0-2FEaHXHFmqOiK-2B2LVCZpjzir8Yqf
+KxRESctWUuBYzHqf6RPq2i81As854jbF4xZS3FbsoBkmYCaUlTUevOCPGz7km3js490lbTLr
+QmbpZtlJcXdwLeYt-2FA2w4ngxL3IFgfGvwEy3a8vMtiaTRgB5Un5yRqUrOtolcrurpTzw-3
+D-3D>  and leave your comments. This social media thing might be
+catching on after all.
+
+ 	 
+ 	 Plex runs on 
+ 	 
+ 	 
+ 
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbajKKTl5CEQRT5dNOStSU2HCG49fi4CqZbv-2BEWx4lHg6iwdW-2Fi02hC00QmTYk2ZaE
+GI-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTh6ryshPy4YbdtYIMD16I0MGeEvklQ-2BTVroglKYZ-2FivXzV
+hxurZet2SJ6ig2ZEOdtPzBLacsjjwFcD5oka0OSihiVq0srlDBem4bkMcu1ZCDEWvwA65XrP
+bX02rKw8VXDEVNKkVi7lXjotHy-2F85wUnCWzr-2BqPFcuM-2F5E7fG2G6SduyD7vPuyAC1N
+ERRDdybB2O5KqGe48doM0XHDZPr7K1tBGOXCfbnJudizrWtR5-2Fc5Zdn5lNUQZxUsvKALrU
+x9WfOK-2Bobw5xCi7PXR9A1leXkVPkroGM3pfom-2FAl-2BZv6RYC-2F0a0pV1sXKgiG0V7R
+Y-2F5A-3D-3D>  	
+ 	 
+ 	 ...and is fueled by Barkley 
+ 	 
+ 
+<http://static.sendgrid.com/uploads/UID_475774_NL_2255525_17df4b30db08db
+a3fc588b71dc1615a4/a25f24532f5bb30a921d7243c37a8099> 	
+	
+You have received this email because you have subscribed to Plex
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbaim0pT3ek-2F398WgJM62poGbf9zjPyvSXYvtZpxOt6DjyIqVY6hrevm-2F0VjR2wuu3
+nI-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA
+4RkdB0MdOmySUcSIuV8HjuTqU91IvMhiuPvmrSBxQabRPw8KHEBTEtHIcNiSqS-2FZ2v100J
+MoIiobwmwUHGSlLY689Clud9wGpZtB-2F-2FIQocSb5Us6t1xaD07T-2BdJ08J6Kjg5GYb6f
+Bm0qDtv6ZgDmEdjNJHKk4n8upVdktUEN8Wxa0OiIZjD4bkXUivw3kiTy8uvHgUVPGzD0eIjc
+XOewd9iGHoUfUh4Yl7cLlyF4d37Snt6tyjyEpFzMsuwV1lnk7TKKNI2-2BdJPyJ9XUgFw-2B
+ZeyCB5U8pXjUmhDmnMAFJoWIlj-2FHinR3xzLUuPQoyKKgYWM2MUHWUXDb3BBBjIQ19Mpw-3
+D-3D> . If you no longer wish to receive emails please unsubscribe
+<http://email.plexapp.com/wf/unsubscribe?upn=rkwuK8TjtAUrSFYuN-2FWcFqYOA
+oqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTvLmHJxG7E-
+2F8F1a-2BV48goSPFJV515kvSgXvr-2BuaS3xHihkKlZYZGI8iD-2Bgz-2B0l8L7-2FkwZPG
+idpYNtG7nCQ9oO5vL0NYmlk3vT6irF0DjU9IGPEfvNIRg-2FzfkcXNlMZHlqOJ3PlP37fTae
+qL3QjpndyiTbXZH2TDcAX8RUVWkbjmzns-2FzLOn-2BwmD5hwkMgb5h3AFaBsfGfIwFc8ZUj
+1pt5DSqulPkSLSb-2FvGH-2FK-2FLbam09TyWaTg2t-2BR8Oa1jAZO6-2Filx6MhhJcwvo-2
+B0JX4n7GoLjahXdhaX9Q9qcO05NInpq3bg2GLWosmlbxDxCwn2m0Q-3D-3D>  
+© 2013 Plex, Inc. All rights reserved 
+ 
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4hnLXM-2Fz2Qh
+riZ3aXihHo0M-2BPUdjUGH4CvGDVULiUxqJ_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDL
+YYc877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTqiiGRry26Ba5yMZpzHr
+wxy3rf8JC5EoqAAeeRQ0TQnnsY3cV7Bnb0ejPOPMw18B4ns3Kussq13FPd0cJCMSNoy7nILB
+RD2QkOEutfq4IfwXeOhqHzSGLtoII-2FbP9x4AfuINYix8C9k3bXbjGE-2FvDjr0gCvSCiVf
+20m-2BEe4L-2FjRByBIDZjOpOjBRDoAWogoN-2ByzGAxt7Lwt6Go8Zj9gRBxQAuPpwyxPNYI
+q8Hc2pIjXrw6TjV3zxWFHA-2BcfFE1GW9l-2FPMj5pbPBTY1gNlJ-2FIjIqDu2ZOIh2vArSn
+fZoUZ3o8t2eYzvqF8QpvWU67oXGtdg-3D-3D>
+<http://email.plexapp.com/wf/click?upn=uIosbxYg3MiEKm7o2mBP4q394k6-2FbKd
+yvMUgpCrC2VhVJojV69aGhvhE4aUYHPfb_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYY
+c877tAowS465oXBBr3aGCDg-2BMA4RkdB0MdOmySUcSIuV8HjuTlTllA-2F4hUJLhXCklFMm
+-2BKtKgjNihk3io-2Bj-2FfLco2cJrKFDZau3gr8TkPcTHzgeqvM2RkcA5IzIMokInKV75bm
+ZJgBZbftQ9HOWON8f6-2FOBc7vHJZGBzJDc3dvQsxbT1LnkVDb7Gzobua31KjBha0gkRZ3wk
+bqRNCbEle1xE812KIseRn570epWt62AvMSfejbdWgiMUos9YZYEIjELPSqj6Ynt63bH8iOyH
+93fXs0WXQv2kU3SU8IAhKFqaqn9Yuz4j4pnsHkICSDl4LhdRaOzkLMFvQ6ctNrzhb-2BbSXc
+Llrbz-2BUqU4EvbhEiNzMbFqAQ-3D-3D>
+<http://email.plexapp.com/wf/click?upn=0vW9Gqz0nluDUwc8GEUjn3J9G2HQ12AVU
+PWVTP6MnBl8gcf1hem6YsL4Ko-2Fsuojkkfbq2I8sO3WQqe9SHc0v86nyxYvVh-2FPDXKRkU
+ixTbajMBgXmEUesWeQnVKp00gxIUa3a2fbF6M35Ocf-2BwyQNGUwvKHuhR2nU2kikWpHKss4
+-3D_rkwuK8TjtAUrSFYuN-2FWcFqYOAoqd2nHPDLYYc877tAowS465oXBBr3aGCDg-2BMA4R
+kdB0MdOmySUcSIuV8HjuTrJBRfCsI0Ned2zzh-2FhhbeZ7tW2fgvPNlMNJ-2BmabG817H4ch
+hIq-2Bk6jbgCo2TeJC7wqhCD4YiYBddL9rD-2F7-2FBgTUw2Y0ofXPrxy9Y5s2rAPcEcfvpc
+h4PVFYX9ZplDF0Av18V6aeIQ

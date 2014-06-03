@@ -1,0 +1,6 @@
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\x86\Debug\DragDropOutlook2.csprojResolveAssemblyReference.cache
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\x86\Debug\DragDropCopy.Form1.resources
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\x86\Debug\DragDropOutlook2.Properties.Resources.resources
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\x86\Debug\DragDropOutlook2.csproj.GenerateResource.Cache
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\x86\Debug\DragDrop2.Form1.resources

@@ -1,0 +1,11 @@
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Release\DragDropCopy.exe.config
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Release\DragDropCopy.exe
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Release\DragDropCopy.pdb
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropCopy.csproj.GenerateResource.Cache
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropCopy.exe
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropCopy.pdb
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\bin\Release\DragDropCopy.XmlSerializers.dll
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropCopy.XmlSerializers.dll
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropSF.Form1.resources
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropSF.Properties.Resources.resources
+C:\Users\Garrett\Documents\Visual Studio 2012\Projects\DragDropCopy\DragDropCopy\obj\Release\DragDropCopy.csprojResolveAssemblyReference.cache
