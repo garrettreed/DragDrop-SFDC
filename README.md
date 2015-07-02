@@ -1,5 +1,5 @@
-# DragDrop Windows Form
+# DragDrop to Salesforce
 
-A winform program written in C#.  
-Uploads a MS Outlook Files and attachments to Salesforce.  
+C# Winform program  
+Uploads MS Outlook Files and attachments to Salesforce  
 Implements David Ewen's OutlookDataObject and OutlookStorage to work with .msg files
